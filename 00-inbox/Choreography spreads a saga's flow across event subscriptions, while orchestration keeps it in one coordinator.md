@@ -5,11 +5,11 @@ author: claude
 up: ["[[Microservices and messaging MOC]]"]
 source: "https://learn.microsoft.com/en-us/azure/architecture/patterns/saga"
 created: 2026-09-30
-score: 0.847
+score: 0.905
 review: "ready"
 score_reasons: []
 judged_by: "jev-1.13.0"
-judge_rounds: 1
+judge_rounds: 2
 ---
 # Choreography spreads a saga's flow across event subscriptions, while orchestration keeps it in one coordinator
 

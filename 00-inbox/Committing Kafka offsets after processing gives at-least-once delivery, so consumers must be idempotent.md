@@ -4,11 +4,11 @@ status: draft
 author: claude
 source: "https://kafka.apache.org/43/javadoc/org/apache/kafka/clients/consumer/KafkaConsumer.html"
 created: 2026-09-30
-score: 0.89
+score: 0.897
 review: "ready"
 score_reasons: ["numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"
-judge_rounds: 1
+judge_rounds: 2
 ---
 # Committing Kafka offsets after processing gives at-least-once delivery, so consumers must be idempotent
 

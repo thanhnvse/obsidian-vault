@@ -5,11 +5,11 @@ author: claude
 up: ["[[Ops and cloud MOC]]"]
 source: "https://documentation.red-gate.com/fd/undo-migrations-273973334.html"
 created: 2026-10-01
-score: 0.863
-review: "ready"
-score_reasons: []
+score: 0.743
+review: "borderline"
+score_reasons: ["atomic: 0.45 (borderline)", "numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"
-judge_rounds: 1
+judge_rounds: 2
 ---
 # A Flyway undo migration can reverse a schema change but not lost data, so production databases roll forward
 

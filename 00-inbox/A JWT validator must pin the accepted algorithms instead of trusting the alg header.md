@@ -4,11 +4,11 @@ status: draft
 author: claude
 source: "https://www.rfc-editor.org/rfc/rfc8725.html"
 created: 2026-09-30
-score: 0.703
-review: "parked"
-score_reasons: ["why_choose: 0.39 (fail)", "numbers: verify every figure yourself"]
+score: 0.86
+review: "ready"
+score_reasons: ["numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"
-judge_rounds: 1
+judge_rounds: 2
 ---
 # A JWT validator must pin the accepted algorithms instead of trusting the alg header
 

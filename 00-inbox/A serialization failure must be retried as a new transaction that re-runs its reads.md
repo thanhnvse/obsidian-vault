@@ -5,11 +5,11 @@ author: claude
 up: ["[[Database MOC]]"]
 source: "https://www.postgresql.org/docs/15/mvcc-serialization-failure-handling.html"
 created: 2026-10-01
-score: 0.887
+score: 0.885
 review: "ready"
-score_reasons: []
+score_reasons: ["numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"
-judge_rounds: 1
+judge_rounds: 2
 ---
 # A serialization failure must be retried as a new transaction that re-runs its reads
 

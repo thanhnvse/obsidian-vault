@@ -5,7 +5,7 @@ author: claude
 up: ["[[Indexes and query performance MOC]]"]
 source: "https://www.postgresql.org/docs/15/queries-limit.html"
 created: 2026-10-01
-score: 0.897
+score: 0.875
 review: "ready"
 score_reasons: ["numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"

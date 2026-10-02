@@ -5,7 +5,7 @@ author: claude
 up: ["[[Spring MOC]]"]
 source: "https://docs.spring.io/spring-framework/docs/6.1.x/javadoc-api/org/springframework/beans/factory/ObjectProvider.html"
 created: 2026-10-01
-score: 0.873
+score: 0.892
 review: "ready"
 score_reasons: ["numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"

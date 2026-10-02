@@ -5,9 +5,9 @@ author: claude
 up: ["[[Spring MOC]]"]
 source: "https://docs.spring.io/spring-framework/docs/6.1.x/javadoc-api/org/springframework/web/client/RestClient.Builder.html"
 created: 2026-10-01
-score: 0.883
+score: 0.897
 review: "ready"
-score_reasons: ["numbers: verify every figure yourself"]
+score_reasons: ["possible conflict with draft [[RestClient replaces RestTemplate as Spring's synchronous HTTP client]] (p=0.71)", "numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"
 judge_rounds: 1
 ---

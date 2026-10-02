@@ -5,11 +5,11 @@ author: claude
 up: ["[[Security MOC]]"]
 source: "https://www.rfc-editor.org/rfc/rfc9110.html#section-4.3.4"
 created: 2026-10-01
-score: 0.84
+score: 0.826
 review: "ready"
 score_reasons: ["numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"
-judge_rounds: 1
+judge_rounds: 2
 ---
 # A server certificate proves identity only together with a SAN host-name match and a CertificateVerify signature
 

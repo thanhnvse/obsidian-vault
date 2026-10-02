@@ -5,7 +5,7 @@ author: claude
 up: ["[[Java core MOC]]"]
 source: "https://docs.oracle.com/javase/specs/jls/se21/html/jls-15.html#jls-15.13.3"
 created: 2026-10-01
-score: 0.903
+score: 0.915
 review: "ready"
 score_reasons: ["numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"

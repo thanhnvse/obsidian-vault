@@ -5,7 +5,7 @@ author: claude
 up: ["[[Security MOC]]"]
 source: "https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository"
 created: 2026-10-01
-score: 0.91
+score: 0.907
 review: "ready"
 score_reasons: []
 judged_by: "jev-1.13.0"

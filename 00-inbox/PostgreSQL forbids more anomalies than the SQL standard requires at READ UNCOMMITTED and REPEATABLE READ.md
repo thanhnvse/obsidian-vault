@@ -5,11 +5,11 @@ author: claude
 up: ["[[Database MOC]]"]
 source: "https://www.postgresql.org/docs/15/transaction-iso.html"
 created: 2026-10-01
-score: 0.83
-review: "ready"
-score_reasons: []
+score: 0.824
+review: "borderline"
+score_reasons: ["atomic: 0.47 (borderline)", "links_reasoned: 0.55 (borderline)", "numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"
-judge_rounds: 1
+judge_rounds: 2
 ---
 # PostgreSQL forbids more anomalies than the SQL standard requires at READ UNCOMMITTED and REPEATABLE READ
 

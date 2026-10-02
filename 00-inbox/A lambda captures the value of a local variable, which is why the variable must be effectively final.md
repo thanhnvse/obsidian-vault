@@ -5,11 +5,11 @@ author: claude
 up: ["[[Java core MOC]]"]
 source: "https://docs.oracle.com/javase/specs/jls/se21/html/jls-15.html#jls-15.27.2"
 created: 2026-10-01
-score: 0.897
-review: "ready"
-score_reasons: ["numbers: verify every figure yourself"]
+score: 0.881
+review: "borderline"
+score_reasons: ["atomic: 0.59 (borderline)", "numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"
-judge_rounds: 1
+judge_rounds: 2
 ---
 # A lambda captures the value of a local variable, which is why the variable must be effectively final
 

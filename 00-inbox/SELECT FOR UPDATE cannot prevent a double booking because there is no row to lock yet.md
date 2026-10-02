@@ -5,11 +5,11 @@ author: claude
 up: ["[[Concurrency MOC]]"]
 source: "https://www.postgresql.org/docs/15/index-unique-checks.html"
 created: 2026-10-01
-score: 0.87
-review: "ready"
-score_reasons: []
+score: 0.842
+review: "borderline"
+score_reasons: ["atomic: 0.54 (borderline)", "numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"
-judge_rounds: 1
+judge_rounds: 2
 ---
 # SELECT FOR UPDATE cannot prevent a double booking because there is no row to lock yet
 

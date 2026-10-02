@@ -4,7 +4,7 @@ status: draft
 author: claude
 source: "https://kubernetes.io/docs/concepts/workloads/controllers/statefulset/"
 created: 2026-09-30
-score: 0.873
+score: 0.922
 review: "ready"
 score_reasons: ["numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"

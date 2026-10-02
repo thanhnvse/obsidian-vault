@@ -4,11 +4,11 @@ status: draft
 author: claude
 source: "https://www.postgresql.org/docs/current/warm-standby.html"
 created: 2026-09-30
-score: 0.893
+score: 0.896
 review: "ready"
-score_reasons: []
+score_reasons: ["numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"
-judge_rounds: 1
+judge_rounds: 2
 ---
 # Read replicas scale reads but serve stale data while replication lags
 

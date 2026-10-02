@@ -5,11 +5,11 @@ author: claude
 up: ["[[Java core MOC]]"]
 source: "https://www.oracle.com/java/technologies/javase/18-relnote-issues.html"
 created: 2026-10-01
-score: 0.833
+score: 0.887
 review: "ready"
-score_reasons: []
+score_reasons: ["numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"
-judge_rounds: 1
+judge_rounds: 2
 ---
 # Since JDK 18, javac stores the enclosing instance in an inner class only when the class uses it
 

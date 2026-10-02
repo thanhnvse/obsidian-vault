@@ -5,7 +5,7 @@ author: claude
 up: ["[[Spring MOC]]"]
 source: "https://docs.spring.io/spring-framework/reference/core/beans/factory-nature.html"
 created: 2026-09-30
-score: 0.853
+score: 0.889
 review: "ready"
 score_reasons: []
 judged_by: "jev-1.13.0"

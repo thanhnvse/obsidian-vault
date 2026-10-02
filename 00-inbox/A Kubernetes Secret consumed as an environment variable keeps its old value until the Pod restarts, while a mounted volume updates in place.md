@@ -5,11 +5,11 @@ author: claude
 up: ["[[Security MOC]]"]
 source: "https://kubernetes.io/docs/concepts/configuration/secret/"
 created: 2026-10-01
-score: 0.897
+score: 0.906
 review: "ready"
 score_reasons: ["numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"
-judge_rounds: 1
+judge_rounds: 2
 ---
 # A Kubernetes Secret consumed as an environment variable keeps its old value until the Pod restarts, while a mounted volume updates in place
 

@@ -3,11 +3,6 @@ tags: [python, gotcha]
 status: draft
 source: ""
 created: 2026-09-28
-score: 0.787
-review: "ready"
-score_reasons: []
-judged_by: "jev-1.13.0"
-judge_rounds: 1
 ---
 # Mutable default arguments are evaluated once at definition time
 

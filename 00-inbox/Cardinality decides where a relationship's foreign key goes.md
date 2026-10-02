@@ -4,11 +4,11 @@ status: draft
 author: claude
 source: "https://www.postgresql.org/docs/18/ddl-constraints.html"
 created: 2026-09-30
-score: 0.847
-review: "ready"
-score_reasons: []
+score: 0.839
+review: "borderline"
+score_reasons: ["atomic: 0.48 (borderline)", "numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"
-judge_rounds: 1
+judge_rounds: 2
 ---
 # Cardinality decides where a relationship's foreign key goes
 

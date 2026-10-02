@@ -4,9 +4,9 @@ status: draft
 author: claude
 source: "https://developer.hashicorp.com/vault/docs/concepts/lease"
 created: 2026-09-30
-score: 0.893
+score: 0.906
 review: "ready"
-score_reasons: []
+score_reasons: ["numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"
 judge_rounds: 1
 ---

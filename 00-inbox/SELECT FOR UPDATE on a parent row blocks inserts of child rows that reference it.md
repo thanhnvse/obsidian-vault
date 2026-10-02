@@ -5,7 +5,7 @@ author: claude
 up: ["[[Concurrency MOC]]"]
 source: "https://www.postgresql.org/docs/15/explicit-locking.html"
 created: 2026-09-30
-score: 0.907
+score: 0.931
 review: "ready"
 score_reasons: ["numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"

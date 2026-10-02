@@ -5,9 +5,9 @@ author: claude
 up: ["[[Ops and cloud MOC]]"]
 source: "https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Concepts.MultiAZSingleStandby.html"
 created: 2026-10-01
-score: 0.88
+score: 0.904
 review: "ready"
-score_reasons: []
+score_reasons: ["numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"
 judge_rounds: 1
 ---

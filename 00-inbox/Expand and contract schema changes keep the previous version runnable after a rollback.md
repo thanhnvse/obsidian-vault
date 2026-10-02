@@ -4,7 +4,7 @@ status: draft
 author: claude
 source: "https://martinfowler.com/bliki/ParallelChange.html"
 created: 2026-09-30
-score: 0.893
+score: 0.834
 review: "ready"
 score_reasons: []
 judged_by: "jev-1.13.0"

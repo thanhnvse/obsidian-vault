@@ -4,11 +4,11 @@ status: draft
 author: claude
 source: "https://martinfowler.com/bliki/CanaryRelease.html"
 created: 2026-09-30
-score: 0.853
-review: "ready"
-score_reasons: []
+score: 0.787
+review: "parked"
+score_reasons: ["atomic: 0.36 (fail)"]
 judged_by: "jev-1.13.0"
-judge_rounds: 1
+judge_rounds: 2
 ---
 # Blue-green switches all traffic at once while a canary shifts a subset of users first
 

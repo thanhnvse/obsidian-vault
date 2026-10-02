@@ -4,11 +4,11 @@ status: draft
 author: claude
 source: "https://docs.spring.io/spring-framework/reference/web/webflux-webclient.html"
 created: 2026-09-30
-score: 0.867
-review: "ready"
-score_reasons: ["numbers: verify every figure yourself"]
+score: 0.877
+review: "borderline"
+score_reasons: ["atomic: 0.58 (borderline)", "numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"
-judge_rounds: 1
+judge_rounds: 2
 ---
 # WebClient saves threads only when the caller does not block on it
 

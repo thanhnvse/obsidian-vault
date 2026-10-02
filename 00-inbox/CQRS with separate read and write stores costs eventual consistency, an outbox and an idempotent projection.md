@@ -5,11 +5,11 @@ author: claude
 up: ["[[System design MOC]]"]
 source: "https://learn.microsoft.com/en-us/azure/architecture/patterns/cqrs"
 created: 2026-10-01
-score: 0.867
-review: "ready"
-score_reasons: []
+score: 0.892
+review: "borderline"
+score_reasons: ["atomic: 0.55 (borderline)"]
 judged_by: "jev-1.13.0"
-judge_rounds: 1
+judge_rounds: 2
 ---
 # CQRS with separate read and write stores costs eventual consistency, an outbox and an idempotent projection
 

@@ -5,7 +5,7 @@ author: claude
 up: ["[[Microservices and messaging MOC]]"]
 source: "https://learn.microsoft.com/en-us/azure/architecture/patterns/saga"
 created: 2026-10-01
-score: 0.907
+score: 0.924
 review: "ready"
 score_reasons: []
 judged_by: "jev-1.13.0"

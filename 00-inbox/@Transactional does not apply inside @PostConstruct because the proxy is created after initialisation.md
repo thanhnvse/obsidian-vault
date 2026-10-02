@@ -4,7 +4,7 @@ status: draft
 author: claude
 source: "https://docs.spring.io/spring-framework/reference/core/beans/factory-nature.html"
 created: 2026-09-30
-score: 0.883
+score: 0.871
 review: "ready"
 score_reasons: []
 judged_by: "jev-1.13.0"

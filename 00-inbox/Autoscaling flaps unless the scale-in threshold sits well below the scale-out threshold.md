@@ -5,7 +5,7 @@ author: claude
 up: ["[[System design MOC]]"]
 source: "https://learn.microsoft.com/en-us/azure/architecture/best-practices/auto-scaling"
 created: 2026-10-01
-score: 0.883
+score: 0.874
 review: "ready"
 score_reasons: ["numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"

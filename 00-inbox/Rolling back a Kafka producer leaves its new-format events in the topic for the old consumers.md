@@ -5,7 +5,7 @@ author: claude
 up: ["[[Ops and cloud MOC]]"]
 source: "https://kafka.apache.org/43/getting-started/introduction/"
 created: 2026-10-01
-score: 0.887
+score: 0.845
 review: "ready"
 score_reasons: ["numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"

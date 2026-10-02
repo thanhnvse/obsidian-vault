@@ -6,11 +6,11 @@ up: ["[[Spring MOC]]"]
 proposes_for: "[[Injecting a String-keyed Map gives a strategy registry keyed by bean name]]"
 source: "https://docs.spring.io/spring-framework/docs/6.1.x/javadoc-api/org/springframework/context/annotation/ConfigurationClassPostProcessor.html"
 created: 2026-09-30
-score: 0.79
+score: 0.808
 review: "ready"
 score_reasons: []
 judged_by: "jev-1.13.0"
-judge_rounds: 1
+judge_rounds: 2
 ---
 # Proposed addition to Injecting a String-keyed Map gives a strategy registry keyed by bean name
 

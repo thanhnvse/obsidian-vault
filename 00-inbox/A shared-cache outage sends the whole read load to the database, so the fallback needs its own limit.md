@@ -5,7 +5,7 @@ author: claude
 up: ["[[Caching MOC]]"]
 source: "https://learn.microsoft.com/en-us/azure/architecture/best-practices/caching"
 created: 2026-10-01
-score: 0.867
+score: 0.909
 review: "ready"
 score_reasons: []
 judged_by: "jev-1.13.0"

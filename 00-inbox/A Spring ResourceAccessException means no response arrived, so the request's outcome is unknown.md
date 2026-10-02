@@ -5,11 +5,11 @@ author: claude
 up: ["[[Spring MOC]]"]
 source: "https://docs.spring.io/spring-framework/docs/6.1.x/javadoc-api/org/springframework/web/client/ResourceAccessException.html"
 created: 2026-10-01
-score: 0.89
+score: 0.883
 review: "ready"
 score_reasons: ["numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"
-judge_rounds: 1
+judge_rounds: 2
 ---
 # A Spring ResourceAccessException means no response arrived, so the request's outcome is unknown
 

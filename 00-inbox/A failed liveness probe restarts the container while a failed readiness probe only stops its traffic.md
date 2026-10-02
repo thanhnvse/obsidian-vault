@@ -5,11 +5,11 @@ author: claude
 up: ["[[Kubernetes MOC]]"]
 source: "https://kubernetes.io/docs/concepts/configuration/liveness-readiness-startup-probes/"
 created: 2026-10-01
-score: 0.87
-review: "ready"
-score_reasons: ["numbers: verify every figure yourself"]
+score: 0.884
+review: "borderline"
+score_reasons: ["atomic: 0.56 (borderline)", "numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"
-judge_rounds: 1
+judge_rounds: 2
 ---
 # A failed liveness probe restarts the container while a failed readiness probe only stops its traffic
 

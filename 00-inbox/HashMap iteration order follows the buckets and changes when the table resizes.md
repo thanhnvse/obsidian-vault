@@ -5,9 +5,9 @@ author: claude
 up: ["[[Java collections MOC]]"]
 source: "https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/HashMap.html"
 created: 2026-10-01
-score: 0.89
+score: 0.84
 review: "ready"
-score_reasons: []
+score_reasons: ["numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"
 judge_rounds: 1
 ---

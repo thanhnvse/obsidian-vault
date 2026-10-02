@@ -5,7 +5,7 @@ author: claude
 up: ["[[Security MOC]]"]
 source: "https://docs.spring.io/spring-security/reference/servlet/oauth2/resource-server/jwt.html"
 created: 2026-10-01
-score: 0.877
+score: 0.882
 review: "ready"
 score_reasons: ["numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"

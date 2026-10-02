@@ -4,7 +4,7 @@ status: draft
 author: claude
 source: "https://docs.spring.io/spring-framework/reference/core/beans/annotation-config/autowired.html"
 created: 2026-09-30
-score: 0.863
+score: 0.877
 review: "ready"
 score_reasons: []
 judged_by: "jev-1.13.0"

@@ -5,11 +5,11 @@ author: claude
 up: ["[[Concurrency MOC]]"]
 source: "https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/concurrent/atomic/AtomicInteger.html"
 created: 2026-10-01
-score: 0.893
-review: "ready"
-score_reasons: []
+score: 0.903
+review: "borderline"
+score_reasons: ["atomic: 0.58 (borderline)", "numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"
-judge_rounds: 1
+judge_rounds: 2
 ---
 # volatile makes count++ visible to other threads but does not make it atomic
 

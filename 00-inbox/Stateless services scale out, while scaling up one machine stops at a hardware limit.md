@@ -4,11 +4,11 @@ status: draft
 author: claude
 source: "https://learn.microsoft.com/en-us/azure/architecture/guide/design-principles/scale-out"
 created: 2026-09-30
-score: 0.877
-review: "ready"
-score_reasons: []
+score: 0.869
+review: "borderline"
+score_reasons: ["atomic: 0.53 (borderline)"]
 judged_by: "jev-1.13.0"
-judge_rounds: 1
+judge_rounds: 2
 ---
 # Stateless services scale out, while scaling up one machine stops at a hardware limit
 

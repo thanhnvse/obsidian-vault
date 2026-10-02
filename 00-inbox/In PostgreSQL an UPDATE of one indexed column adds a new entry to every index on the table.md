@@ -5,7 +5,7 @@ author: claude
 up: ["[[Indexes and query performance MOC]]"]
 source: "https://www.postgresql.org/docs/16/storage-hot.html"
 created: 2026-10-01
-score: 0.887
+score: 0.849
 review: "ready"
 score_reasons: ["numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"

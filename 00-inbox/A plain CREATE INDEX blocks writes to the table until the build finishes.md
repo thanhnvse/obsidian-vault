@@ -5,7 +5,7 @@ author: claude
 up: ["[[Indexes and query performance MOC]]"]
 source: "https://www.postgresql.org/docs/15/sql-createindex.html"
 created: 2026-10-01
-score: 0.843
+score: 0.924
 review: "ready"
 score_reasons: []
 judged_by: "jev-1.13.0"

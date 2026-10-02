@@ -4,11 +4,11 @@ status: draft
 author: claude
 source: "https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/lang/Object.html"
 created: 2026-09-30
-score: 0.89
+score: 0.888
 review: "ready"
 score_reasons: []
 judged_by: "jev-1.13.0"
-judge_rounds: 1
+judge_rounds: 2
 ---
 # Overriding equals without hashCode makes HashMap lookups miss
 

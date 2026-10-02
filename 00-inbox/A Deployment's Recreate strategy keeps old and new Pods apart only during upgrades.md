@@ -5,7 +5,7 @@ author: claude
 up: ["[[Kubernetes MOC]]"]
 source: "https://kubernetes.io/docs/concepts/workloads/controllers/deployment/#recreate-deployment"
 created: 2026-10-01
-score: 0.907
+score: 0.886
 review: "ready"
 score_reasons: ["numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"

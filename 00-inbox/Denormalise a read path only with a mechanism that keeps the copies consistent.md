@@ -4,11 +4,11 @@ status: draft
 author: claude
 source: "https://www.postgresql.org/docs/18/trigger-definition.html"
 created: 2026-09-30
-score: 0.877
-review: "ready"
-score_reasons: []
+score: 0.873
+review: "borderline"
+score_reasons: ["atomic: 0.51 (borderline)", "numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"
-judge_rounds: 1
+judge_rounds: 2
 ---
 # Denormalise a read path only with a mechanism that keeps the copies consistent
 

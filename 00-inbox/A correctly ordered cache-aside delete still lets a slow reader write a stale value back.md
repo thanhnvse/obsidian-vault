@@ -5,11 +5,11 @@ author: claude
 up: ["[[Caching MOC]]"]
 source: "https://learn.microsoft.com/en-us/azure/architecture/patterns/cache-aside"
 created: 2026-10-01
-score: 0.873
+score: 0.875
 review: "ready"
 score_reasons: []
 judged_by: "jev-1.13.0"
-judge_rounds: 1
+judge_rounds: 2
 ---
 # A correctly ordered cache-aside delete still lets a slow reader write a stale value back
 

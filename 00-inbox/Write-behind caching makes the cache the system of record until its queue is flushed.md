@@ -4,7 +4,7 @@ status: draft
 author: claude
 source: "https://docs.oracle.com/en/middleware/fusion-middleware/coherence/14.1.2/develop-applications/caching-data-sources.html"
 created: 2026-09-30
-score: 0.877
+score: 0.899
 review: "ready"
 score_reasons: ["numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"

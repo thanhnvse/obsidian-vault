@@ -5,11 +5,11 @@ author: claude
 up: ["[[Java core MOC]]"]
 source: "https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/stream/Stream.html#toList()"
 created: 2026-10-01
-score: 0.84
-review: "ready"
-score_reasons: []
+score: 0.878
+review: "borderline"
+score_reasons: ["atomic: 0.56 (borderline)", "numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"
-judge_rounds: 1
+judge_rounds: 2
 ---
 # Stream.toList() returns an unmodifiable list that still accepts null elements
 

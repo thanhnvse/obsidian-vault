@@ -5,11 +5,11 @@ author: claude
 up: ["[[Java core MOC]]"]
 source: "https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/stream/Collectors.html#toMap(java.util.function.Function,java.util.function.Function)"
 created: 2026-09-30
-score: 0.833
-review: "ready"
-score_reasons: []
+score: 0.871
+review: "borderline"
+score_reasons: ["atomic: 0.47 (borderline)", "numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"
-judge_rounds: 1
+judge_rounds: 2
 ---
 # Collectors.toMap throws on a duplicate key unless you pass a merge function
 

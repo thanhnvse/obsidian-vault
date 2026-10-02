@@ -4,9 +4,9 @@ status: draft
 author: claude
 source: "https://aws.amazon.com/compliance/shared-responsibility-model/"
 created: 2026-09-30
-score: 0.887
+score: 0.891
 review: "ready"
-score_reasons: []
+score_reasons: ["numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"
 judge_rounds: 1
 ---

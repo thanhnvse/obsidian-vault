@@ -5,7 +5,7 @@ author: claude
 up: ["[[Java collections MOC]]"]
 source: "https://github.com/openjdk/jdk21u/blob/master/src/java.base/share/classes/java/util/HashMap.java"
 created: 2026-09-30
-score: 0.847
+score: 0.856
 review: "ready"
 score_reasons: ["numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"

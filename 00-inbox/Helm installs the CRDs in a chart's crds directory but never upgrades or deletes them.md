@@ -5,7 +5,7 @@ author: claude
 up: ["[[Kubernetes MOC]]"]
 source: "https://helm.sh/docs/chart_best_practices/custom_resource_definitions/"
 created: 2026-10-01
-score: 0.867
+score: 0.876
 review: "ready"
 score_reasons: ["numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"

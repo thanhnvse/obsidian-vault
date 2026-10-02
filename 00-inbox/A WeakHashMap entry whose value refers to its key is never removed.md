@@ -5,11 +5,11 @@ author: claude
 up: ["[[Java collections MOC]]"]
 source: "https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/WeakHashMap.html"
 created: 2026-09-30
-score: 0.867
+score: 0.888
 review: "ready"
-score_reasons: []
+score_reasons: ["numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"
-judge_rounds: 1
+judge_rounds: 2
 ---
 # A WeakHashMap entry whose value refers to its key is never removed
 

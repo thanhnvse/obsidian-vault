@@ -5,9 +5,9 @@ author: claude
 up: ["[[Concurrency MOC]]"]
 source: "https://www.postgresql.org/docs/15/transaction-iso.html"
 created: 2026-10-01
-score: 0.893
+score: 0.91
 review: "ready"
-score_reasons: []
+score_reasons: ["numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"
 judge_rounds: 1
 ---

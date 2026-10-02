@@ -5,11 +5,11 @@ author: claude
 up: ["[[Caching MOC]]"]
 source: "https://redis.io/docs/latest/develop/reference/eviction/"
 created: 2026-10-01
-score: 0.86
-review: "ready"
-score_reasons: []
+score: 0.862
+review: "borderline"
+score_reasons: ["atomic: 0.44 (borderline)", "numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"
-judge_rounds: 1
+judge_rounds: 2
 ---
 # Redis evicts keys only at maxmemory, and maxmemory 0, the 64-bit default, sets no limit at all
 

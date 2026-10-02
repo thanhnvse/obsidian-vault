@@ -5,9 +5,9 @@ author: claude
 up: ["[[Java core MOC]]"]
 source: "https://docs.oracle.com/en/java/javase/21/gctuning/garbage-first-garbage-collector-tuning.html"
 created: 2026-10-01
-score: 0.88
+score: 0.869
 review: "ready"
-score_reasons: []
+score_reasons: ["numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"
 judge_rounds: 1
 ---

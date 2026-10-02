@@ -4,11 +4,11 @@ status: draft
 author: claude
 source: "https://docs.spring.io/spring-framework/reference/data-access/transaction/declarative/rolling-back.html"
 created: 2026-09-30
-score: 0.9
+score: 0.919
 review: "ready"
 score_reasons: []
 judged_by: "jev-1.13.0"
-judge_rounds: 1
+judge_rounds: 2
 ---
 # A checked exception commits a Spring @Transactional method by default
 
