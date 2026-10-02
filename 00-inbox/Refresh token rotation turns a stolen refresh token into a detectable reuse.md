@@ -5,7 +5,7 @@ author: claude
 up: ["[[Security MOC]]"]
 source: "https://www.rfc-editor.org/rfc/rfc9700.html#section-4.14.2"
 created: 2026-09-30
-score: 0.899
+score: 0.897
 review: "ready"
 score_reasons: ["numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"

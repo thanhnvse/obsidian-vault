@@ -5,9 +5,9 @@ author: claude
 up: ["[[Caching MOC]]"]
 source: "https://redis.io/docs/latest/commands/expire/"
 created: 2026-10-01
-score: 0.903
+score: 0.877
 review: "ready"
-score_reasons: ["numbers: verify every figure yourself"]
+score_reasons: []
 judged_by: "jev-1.13.0"
 judge_rounds: 1
 ---

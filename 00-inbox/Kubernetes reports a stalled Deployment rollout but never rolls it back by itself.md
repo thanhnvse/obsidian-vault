@@ -5,7 +5,7 @@ author: claude
 up: ["[[Kubernetes MOC]]"]
 source: "https://kubernetes.io/docs/concepts/workloads/controllers/deployment/"
 created: 2026-10-01
-score: 0.884
+score: 0.903
 review: "ready"
 score_reasons: ["numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"

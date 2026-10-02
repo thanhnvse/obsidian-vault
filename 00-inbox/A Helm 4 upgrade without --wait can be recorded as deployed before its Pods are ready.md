@@ -5,11 +5,11 @@ author: claude
 up: ["[[Kubernetes MOC]]"]
 source: "https://helm.sh/docs/helm/helm_upgrade/"
 created: 2026-10-01
-score: 0.867
+score: 0.87
 review: "ready"
 score_reasons: ["numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"
-judge_rounds: 2
+judge_rounds: 1
 ---
 # A Helm 4 upgrade without --wait can be recorded as deployed before its Pods are ready
 

@@ -5,9 +5,9 @@ author: claude
 up: ["[[Spring MOC]]"]
 source: "https://projectreactor.io/docs/netty/1.1.14/api/reactor/netty/http/client/HttpClient.html"
 created: 2026-09-30
-score: 0.878
-review: "ready"
-score_reasons: []
+score: 0.727
+review: "parked"
+score_reasons: ["why_choose: 0.39 (fail)"]
 judged_by: "jev-1.13.0"
 judge_rounds: 1
 ---

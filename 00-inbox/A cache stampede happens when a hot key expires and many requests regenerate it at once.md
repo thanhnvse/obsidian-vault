@@ -4,11 +4,11 @@ status: draft
 author: claude
 source: "https://www.vldb.org/pvldb/vol8/p886-vattani.pdf"
 created: 2026-09-30
-score: 0.777
-review: "borderline"
-score_reasons: ["atomic: 0.54 (borderline)", "numbers: verify every figure yourself"]
+score: 0.867
+review: "ready"
+score_reasons: ["numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"
-judge_rounds: 2
+judge_rounds: 1
 ---
 # A cache stampede happens when a hot key expires and many requests regenerate it at once
 

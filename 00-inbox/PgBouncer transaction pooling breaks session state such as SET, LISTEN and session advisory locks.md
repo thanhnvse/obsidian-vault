@@ -5,11 +5,11 @@ author: claude
 up: ["[[Database MOC]]"]
 source: "https://www.pgbouncer.org/features.html"
 created: 2026-10-01
-score: 0.933
+score: 0.877
 review: "ready"
 score_reasons: ["numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"
-judge_rounds: 2
+judge_rounds: 1
 ---
 # PgBouncer transaction pooling breaks session state such as SET, LISTEN and session advisory locks
 

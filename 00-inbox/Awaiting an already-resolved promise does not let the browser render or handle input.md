@@ -5,7 +5,7 @@ author: claude
 up: ["[[Frontend interview MOC]]"]
 source: "https://tc39.es/ecma262/multipage/control-abstraction-objects.html#await"
 created: 2026-10-01
-score: 0.875
+score: 0.9
 review: "ready"
 score_reasons: []
 judged_by: "jev-1.13.0"

@@ -5,11 +5,11 @@ author: claude
 up: ["[[Spring MOC]]"]
 source: "https://github.com/spring-projects/spring-framework/blob/v6.1.2/spring-aop/src/main/java/org/springframework/aop/framework/CglibAopProxy.java"
 created: 2026-09-30
-score: 0.798
+score: 0.867
 review: "ready"
 score_reasons: []
 judged_by: "jev-1.13.0"
-judge_rounds: 2
+judge_rounds: 1
 ---
 # A final method on a CGLIB-proxied Spring bean runs on the proxy instance, where injected fields are null
 

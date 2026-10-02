@@ -5,7 +5,7 @@ author: claude
 up: ["[[Indexes and query performance MOC]]"]
 source: "https://docs.hibernate.org/orm/5.2/userguide/html_single/chapters/fetching/Fetching.html"
 created: 2026-10-01
-score: 0.885
+score: 0.893
 review: "ready"
 score_reasons: ["numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"

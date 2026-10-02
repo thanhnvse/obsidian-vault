@@ -5,7 +5,7 @@ author: claude
 up: ["[[Concurrency MOC]]"]
 source: "https://www.postgresql.org/docs/15/sql-select.html"
 created: 2026-09-30
-score: 0.883
+score: 0.867
 review: "ready"
 score_reasons: ["numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"

@@ -5,11 +5,11 @@ author: claude
 up: ["[[@Transactional MOC]]"]
 source: "https://docs.spring.io/spring-framework/reference/data-access/transaction/declarative/annotations.html"
 created: 2026-10-01
-score: 0.843
-review: "borderline"
-score_reasons: ["atomic: 0.59 (borderline)", "numbers: verify every figure yourself"]
+score: 0.88
+review: "ready"
+score_reasons: ["numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"
-judge_rounds: 2
+judge_rounds: 1
 ---
 # Since Spring 6.0, class-based proxies make protected and package-private @Transactional methods transactional
 

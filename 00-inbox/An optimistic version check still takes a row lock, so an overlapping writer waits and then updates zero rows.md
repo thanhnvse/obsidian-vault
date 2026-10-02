@@ -5,9 +5,9 @@ author: claude
 up: ["[[Concurrency MOC]]"]
 source: "https://www.postgresql.org/docs/15/transaction-iso.html"
 created: 2026-10-01
-score: 0.906
+score: 0.9
 review: "ready"
-score_reasons: ["possible conflict with draft [[A version column detects a lost update at write time instead of blocking the other writer]] (p=0.68)", "numbers: verify every figure yourself"]
+score_reasons: []
 judged_by: "jev-1.13.0"
 judge_rounds: 1
 ---

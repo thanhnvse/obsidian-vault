@@ -5,9 +5,9 @@ author: claude
 up: ["[[Security MOC]]"]
 source: "https://developer.hashicorp.com/vault/docs/auth/kubernetes"
 created: 2026-10-01
-score: 0.869
-review: "ready"
-score_reasons: []
+score: 0.71
+review: "parked"
+score_reasons: ["why_choose: 0.36 (fail)"]
 judged_by: "jev-1.13.0"
 judge_rounds: 1
 ---

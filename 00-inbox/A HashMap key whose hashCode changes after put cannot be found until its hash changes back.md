@@ -5,9 +5,9 @@ author: claude
 up: ["[[Java collections MOC]]"]
 source: "https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/Map.html"
 created: 2026-10-01
-score: 0.882
+score: 0.867
 review: "ready"
-score_reasons: ["numbers: verify every figure yourself"]
+score_reasons: []
 judged_by: "jev-1.13.0"
 judge_rounds: 1
 ---

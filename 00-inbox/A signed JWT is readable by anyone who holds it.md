@@ -4,9 +4,9 @@ status: draft
 author: claude
 source: "https://www.rfc-editor.org/rfc/rfc7519.html"
 created: 2026-09-30
-score: 0.902
+score: 0.903
 review: "ready"
-score_reasons: ["numbers: verify every figure yourself"]
+score_reasons: []
 judged_by: "jev-1.13.0"
 judge_rounds: 1
 ---

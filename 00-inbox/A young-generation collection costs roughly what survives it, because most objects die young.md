@@ -5,11 +5,11 @@ author: claude
 up: ["[[Java core MOC]]"]
 source: "https://docs.oracle.com/en/java/javase/21/gctuning/garbage-collector-implementation1.html"
 created: 2026-10-01
-score: 0.888
+score: 0.9
 review: "ready"
-score_reasons: ["numbers: verify every figure yourself"]
+score_reasons: []
 judged_by: "jev-1.13.0"
-judge_rounds: 2
+judge_rounds: 1
 ---
 # A young-generation collection costs roughly what survives it, because most objects die young
 

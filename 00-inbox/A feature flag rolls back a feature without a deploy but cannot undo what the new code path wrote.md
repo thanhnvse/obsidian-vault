@@ -5,11 +5,11 @@ author: claude
 up: ["[[Ops and cloud MOC]]"]
 source: "https://martinfowler.com/articles/feature-toggles.html"
 created: 2026-10-01
-score: 0.816
-review: "borderline"
-score_reasons: ["atomic: 0.48 (borderline)"]
+score: 0.883
+review: "ready"
+score_reasons: []
 judged_by: "jev-1.13.0"
-judge_rounds: 2
+judge_rounds: 1
 ---
 # A feature flag rolls back a feature without a deploy but cannot undo what the new code path wrote
 

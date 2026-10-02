@@ -5,11 +5,11 @@ author: claude
 up: ["[[Ops and cloud MOC]]"]
 source: "https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_WorkingWithAutomatedBackups.html"
 created: 2026-10-01
-score: 0.877
+score: 0.837
 review: "ready"
-score_reasons: ["numbers: verify every figure yourself"]
+score_reasons: []
 judged_by: "jev-1.13.0"
-judge_rounds: 2
+judge_rounds: 1
 ---
 # RDS point-in-time recovery reaches back only as far as the backup retention period you set
 

@@ -4,11 +4,11 @@ status: draft
 author: claude
 source: "https://www.rfc-editor.org/rfc/rfc8446.html"
 created: 2026-09-30
-score: 0.838
-review: "borderline"
-score_reasons: ["atomic: 0.52 (borderline)", "numbers: verify every figure yourself"]
+score: 0.817
+review: "ready"
+score_reasons: ["numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"
-judge_rounds: 2
+judge_rounds: 1
 ---
 # A TLS 1.3 full handshake authenticates the server and agrees keys in one round trip
 

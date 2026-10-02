@@ -4,11 +4,11 @@ status: draft
 author: claude
 source: "https://docs.spring.io/spring-framework/reference/integration/rest-clients.html"
 created: 2026-09-30
-score: 0.861
-review: "borderline"
-score_reasons: ["atomic: 0.57 (borderline)", "numbers: verify every figure yourself"]
+score: 0.873
+review: "ready"
+score_reasons: ["numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"
-judge_rounds: 2
+judge_rounds: 1
 ---
 # RestClient replaces RestTemplate as Spring's synchronous HTTP client
 

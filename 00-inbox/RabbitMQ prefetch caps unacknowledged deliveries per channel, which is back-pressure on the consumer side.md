@@ -5,11 +5,11 @@ author: claude
 up: ["[[Microservices and messaging MOC]]"]
 source: "https://www.rabbitmq.com/docs/confirms"
 created: 2026-10-01
-score: 0.887
-review: "borderline"
-score_reasons: ["atomic: 0.58 (borderline)", "numbers: verify every figure yourself"]
+score: 0.87
+review: "ready"
+score_reasons: []
 judged_by: "jev-1.13.0"
-judge_rounds: 2
+judge_rounds: 1
 ---
 # RabbitMQ prefetch caps unacknowledged deliveries per channel, which is back-pressure on the consumer side
 

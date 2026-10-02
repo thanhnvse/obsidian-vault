@@ -4,11 +4,11 @@ status: draft
 author: claude
 source: "https://www.postgresql.org/docs/18/transaction-iso.html"
 created: 2026-09-30
-score: 0.871
-review: "borderline"
-score_reasons: ["atomic: 0.54 (borderline)", "numbers: verify every figure yourself"]
+score: 0.857
+review: "ready"
+score_reasons: []
 judged_by: "jev-1.13.0"
-judge_rounds: 2
+judge_rounds: 1
 ---
 # Write skew survives snapshot isolation because the two transactions write different rows
 

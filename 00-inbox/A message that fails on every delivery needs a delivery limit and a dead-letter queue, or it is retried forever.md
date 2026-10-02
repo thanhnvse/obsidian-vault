@@ -5,7 +5,7 @@ author: claude
 up: ["[[Microservices and messaging MOC]]"]
 source: "https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-dead-letter-queues"
 created: 2026-10-01
-score: 0.856
+score: 0.89
 review: "ready"
 score_reasons: ["numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"

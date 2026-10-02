@@ -7,9 +7,9 @@ source: "https://www.postgresql.org/docs/15/explicit-locking.html"
 created: 2026-10-01
 score: 0.85
 review: "ready"
-score_reasons: ["numbers: verify every figure yourself"]
+score_reasons: []
 judged_by: "jev-1.13.0"
-judge_rounds: 2
+judge_rounds: 1
 ---
 # A deadlock aborts the whole transaction in PostgreSQL but only one statement in Oracle
 

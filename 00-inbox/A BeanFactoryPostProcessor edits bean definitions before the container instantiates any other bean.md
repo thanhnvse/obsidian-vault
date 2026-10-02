@@ -5,11 +5,11 @@ author: claude
 up: ["[[Spring MOC]]"]
 source: "https://docs.spring.io/spring-framework/reference/core/beans/factory-extension.html"
 created: 2026-10-01
-score: 0.881
-review: "borderline"
-score_reasons: ["atomic: 0.59 (borderline)", "numbers: verify every figure yourself"]
+score: 0.857
+review: "ready"
+score_reasons: ["numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"
-judge_rounds: 2
+judge_rounds: 1
 ---
 # A BeanFactoryPostProcessor edits bean definitions before the container instantiates any other bean
 

@@ -5,7 +5,7 @@ author: claude
 up: ["[[Database MOC]]"]
 source: "https://dev.mysql.com/doc/refman/8.4/en/innodb-consistent-read.html"
 created: 2026-09-30
-score: 0.901
+score: 0.89
 review: "ready"
 score_reasons: ["numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"

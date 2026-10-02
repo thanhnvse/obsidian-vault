@@ -4,7 +4,7 @@ status: draft
 author: claude
 source: "https://learn.microsoft.com/en-us/azure/architecture/patterns/queue-based-load-leveling"
 created: 2026-09-30
-score: 0.923
+score: 0.853
 review: "ready"
 score_reasons: []
 judged_by: "jev-1.13.0"

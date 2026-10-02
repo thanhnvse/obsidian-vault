@@ -5,7 +5,7 @@ author: claude
 up: ["[[Spring MOC]]"]
 source: "https://docs.spring.io/spring-boot/reference/features/aop.html"
 created: 2026-09-30
-score: 0.889
+score: 0.863
 review: "ready"
 score_reasons: []
 judged_by: "jev-1.13.0"

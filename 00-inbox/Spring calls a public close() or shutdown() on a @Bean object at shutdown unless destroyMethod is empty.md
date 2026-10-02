@@ -5,7 +5,7 @@ author: claude
 up: ["[[Spring MOC]]"]
 source: "https://docs.spring.io/spring-framework/docs/6.1.x/javadoc-api/org/springframework/context/annotation/Bean.html"
 created: 2026-09-30
-score: 0.882
+score: 0.877
 review: "ready"
 score_reasons: []
 judged_by: "jev-1.13.0"

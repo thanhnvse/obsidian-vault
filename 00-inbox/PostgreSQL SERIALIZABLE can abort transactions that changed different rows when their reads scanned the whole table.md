@@ -5,7 +5,7 @@ author: claude
 up: ["[[Database MOC]]"]
 source: "https://www.postgresql.org/docs/15/transaction-iso.html"
 created: 2026-09-30
-score: 0.891
+score: 0.87
 review: "ready"
 score_reasons: ["numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"

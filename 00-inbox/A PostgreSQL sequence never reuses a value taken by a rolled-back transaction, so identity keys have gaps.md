@@ -5,7 +5,7 @@ author: claude
 up: ["[[Database MOC]]"]
 source: "https://www.postgresql.org/docs/15/functions-sequence.html"
 created: 2026-10-01
-score: 0.907
+score: 0.86
 review: "ready"
 score_reasons: ["numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"

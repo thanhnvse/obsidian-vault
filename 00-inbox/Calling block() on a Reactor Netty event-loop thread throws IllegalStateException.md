@@ -5,7 +5,7 @@ author: claude
 up: ["[[Spring MOC]]"]
 source: "https://projectreactor.io/docs/core/release/api/reactor/core/scheduler/NonBlocking.html"
 created: 2026-10-01
-score: 0.891
+score: 0.887
 review: "ready"
 score_reasons: ["numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"

@@ -5,7 +5,7 @@ author: claude
 up: ["[[@Transactional MOC]]"]
 source: "https://docs.spring.io/spring-framework/docs/6.1.x/javadoc-api/org/springframework/transaction/TransactionTimedOutException.html"
 created: 2026-10-01
-score: 0.875
+score: 0.867
 review: "ready"
 score_reasons: ["numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"

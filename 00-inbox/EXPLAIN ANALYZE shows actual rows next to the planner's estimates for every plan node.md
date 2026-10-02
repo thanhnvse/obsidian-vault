@@ -4,11 +4,11 @@ status: draft
 author: claude
 source: "https://www.postgresql.org/docs/18/using-explain.html"
 created: 2026-09-30
-score: 0.863
-review: "borderline"
-score_reasons: ["atomic: 0.56 (borderline)", "numbers: verify every figure yourself"]
+score: 0.843
+review: "ready"
+score_reasons: []
 judged_by: "jev-1.13.0"
-judge_rounds: 2
+judge_rounds: 1
 ---
 # EXPLAIN ANALYZE shows actual rows next to the planner's estimates for every plan node
 

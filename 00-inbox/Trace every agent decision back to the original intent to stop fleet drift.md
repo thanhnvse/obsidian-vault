@@ -4,11 +4,11 @@ status: draft
 author: claude
 source: "https://www.youtube.com/watch?v=AL-PQuB2wy0"
 created: 2026-09-30
-score: 0.644
-review: "parked"
-score_reasons: ["atomic: 0.37 (fail)", "links_reasoned: 0.57 (borderline)"]
+score: 0.747
+review: "borderline"
+score_reasons: ["atomic: 0.53 (borderline)"]
 judged_by: "jev-1.13.0"
-judge_rounds: 2
+judge_rounds: 1
 ---
 # Trace every agent decision back to the original intent to stop fleet drift
 

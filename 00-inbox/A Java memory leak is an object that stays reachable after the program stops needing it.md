@@ -4,11 +4,11 @@ status: draft
 author: claude
 source: "https://docs.oracle.com/en/java/javase/21/troubleshoot/troubleshooting-memory-leaks.html"
 created: 2026-09-30
-score: 0.867
-review: "borderline"
-score_reasons: ["atomic: 0.53 (borderline)"]
+score: 0.827
+review: "ready"
+score_reasons: []
 judged_by: "jev-1.13.0"
-judge_rounds: 2
+judge_rounds: 1
 ---
 # A Java memory leak is an object that stays reachable after the program stops needing it
 

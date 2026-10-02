@@ -4,7 +4,7 @@ status: draft
 author: claude
 source: "https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/ArrayList.html"
 created: 2026-09-30
-score: 0.864
+score: 0.857
 review: "ready"
 score_reasons: []
 judged_by: "jev-1.13.0"

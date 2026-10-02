@@ -5,7 +5,7 @@ author: claude
 up: ["[[Database MOC]]"]
 source: "https://www.db-book.com/slides-dir/PDF-dir/ch7.pdf"
 created: 2026-10-01
-score: 0.879
+score: 0.91
 review: "ready"
 score_reasons: ["numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"

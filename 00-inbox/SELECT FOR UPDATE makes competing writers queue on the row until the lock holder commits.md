@@ -4,11 +4,11 @@ status: draft
 author: claude
 source: "https://www.postgresql.org/docs/18/explicit-locking.html"
 created: 2026-09-30
-score: 0.88
-review: "borderline"
-score_reasons: ["atomic: 0.53 (borderline)"]
+score: 0.87
+review: "ready"
+score_reasons: []
 judged_by: "jev-1.13.0"
-judge_rounds: 2
+judge_rounds: 1
 ---
 # SELECT FOR UPDATE makes competing writers queue on the row until the lock holder commits
 

@@ -4,9 +4,9 @@ status: draft
 author: claude
 source: "https://docs.spring.io/spring-framework/reference/web/webflux-webclient/client-builder.html"
 created: 2026-09-30
-score: 0.808
-review: "ready"
-score_reasons: ["numbers: verify every figure yourself"]
+score: 0.603
+review: "parked"
+score_reasons: ["why_choose: 0.32 (fail)", "numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"
 judge_rounds: 1
 ---

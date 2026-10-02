@@ -4,11 +4,11 @@ status: draft
 author: claude
 source: "https://www.rfc-editor.org/rfc/rfc8725.html"
 created: 2026-09-30
-score: 0.892
-review: "borderline"
-score_reasons: ["atomic: 0.59 (borderline)", "numbers: verify every figure yourself"]
+score: 0.893
+review: "ready"
+score_reasons: ["numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"
-judge_rounds: 2
+judge_rounds: 1
 ---
 # A JWT with a valid signature must still be rejected when exp, iss or aud fail validation
 

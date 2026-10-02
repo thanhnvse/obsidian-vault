@@ -4,11 +4,11 @@ status: draft
 author: claude
 source: "https://www.youtube.com/watch?v=AL-PQuB2wy0"
 created: 2026-09-30
-score: 0.739
+score: 0.85
 review: "ready"
 score_reasons: []
 judged_by: "jev-1.13.0"
-judge_rounds: 2
+judge_rounds: 1
 ---
 # A swarm of coding agents drifts from intent without any agent going rogue
 

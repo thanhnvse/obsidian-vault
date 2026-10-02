@@ -5,11 +5,11 @@ author: claude
 up: ["[[Database MOC]]"]
 source: "https://www.postgresql.org/docs/15/sql-createindex.html"
 created: 2026-10-01
-score: 0.874
+score: 0.903
 review: "ready"
 score_reasons: ["numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"
-judge_rounds: 2
+judge_rounds: 1
 ---
 # Random UUID primary keys make a B-tree index larger than keys inserted in order
 

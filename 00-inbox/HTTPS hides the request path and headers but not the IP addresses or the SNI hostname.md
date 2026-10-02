@@ -4,11 +4,11 @@ status: draft
 author: claude
 source: "https://www.rfc-editor.org/rfc/rfc9849.html"
 created: 2026-09-30
-score: 0.87
-review: "borderline"
-score_reasons: ["atomic: 0.54 (borderline)", "numbers: verify every figure yourself"]
+score: 0.813
+review: "ready"
+score_reasons: ["numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"
-judge_rounds: 2
+judge_rounds: 1
 ---
 # HTTPS hides the request path and headers but not the IP addresses or the SNI hostname
 

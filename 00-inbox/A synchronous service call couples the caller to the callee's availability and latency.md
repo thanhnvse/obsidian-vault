@@ -4,11 +4,11 @@ status: draft
 author: claude
 source: "https://learn.microsoft.com/en-us/azure/architecture/microservices/design/interservice-communication"
 created: 2026-09-30
-score: 0.88
-review: "borderline"
-score_reasons: ["atomic: 0.57 (borderline)"]
+score: 0.877
+review: "ready"
+score_reasons: []
 judged_by: "jev-1.13.0"
-judge_rounds: 2
+judge_rounds: 1
 ---
 # A synchronous service call couples the caller to the callee's availability and latency
 

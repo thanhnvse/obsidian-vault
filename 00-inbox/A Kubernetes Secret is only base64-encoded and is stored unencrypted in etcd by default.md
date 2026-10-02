@@ -4,11 +4,11 @@ status: draft
 author: claude
 source: "https://kubernetes.io/docs/concepts/configuration/secret/"
 created: 2026-09-30
-score: 0.856
-review: "borderline"
-score_reasons: ["atomic: 0.53 (borderline)", "numbers: verify every figure yourself"]
+score: 0.883
+review: "ready"
+score_reasons: ["numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"
-judge_rounds: 2
+judge_rounds: 1
 ---
 # A Kubernetes Secret is only base64-encoded and is stored unencrypted in etcd by default
 

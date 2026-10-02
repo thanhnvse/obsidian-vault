@@ -5,11 +5,11 @@ author: claude
 up: ["[[Ops and cloud MOC]]", "[[Kubernetes MOC]]"]
 source: "https://docs.aws.amazon.com/eks/latest/best-practices/security.html"
 created: 2026-10-01
-score: 0.867
-review: "borderline"
-score_reasons: ["atomic: 0.55 (borderline)"]
+score: 0.86
+review: "ready"
+score_reasons: []
 judged_by: "jev-1.13.0"
-judge_rounds: 2
+judge_rounds: 1
 ---
 # On Amazon EKS AWS runs the control plane, while who patches the nodes depends on the node type
 

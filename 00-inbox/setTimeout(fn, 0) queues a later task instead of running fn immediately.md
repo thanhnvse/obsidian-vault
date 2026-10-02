@@ -5,7 +5,7 @@ author: claude
 up: ["[[Frontend interview MOC]]"]
 source: "https://html.spec.whatwg.org/multipage/timers-and-user-prompts.html#timer-initialisation-steps"
 created: 2026-10-01
-score: 0.861
+score: 0.893
 review: "ready"
 score_reasons: ["numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"

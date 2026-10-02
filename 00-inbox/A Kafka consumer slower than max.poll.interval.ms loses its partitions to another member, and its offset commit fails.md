@@ -5,7 +5,7 @@ author: claude
 up: ["[[Microservices and messaging MOC]]"]
 source: "https://kafka.apache.org/36/configuration/consumer-configs/"
 created: 2026-09-30
-score: 0.902
+score: 0.897
 review: "ready"
 score_reasons: ["numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"

@@ -5,7 +5,7 @@ author: claude
 up: ["[[Security MOC]]"]
 source: "https://kubernetes.io/docs/tasks/administer-cluster/encrypt-data/"
 created: 2026-10-01
-score: 0.916
+score: 0.827
 review: "ready"
 score_reasons: ["numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"

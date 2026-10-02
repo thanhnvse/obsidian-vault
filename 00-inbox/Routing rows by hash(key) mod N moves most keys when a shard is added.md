@@ -5,11 +5,11 @@ author: claude
 up: ["[[System design MOC]]"]
 source: "https://learn.microsoft.com/en-us/azure/architecture/patterns/sharding"
 created: 2026-10-01
-score: 0.906
+score: 0.897
 review: "ready"
 score_reasons: []
 judged_by: "jev-1.13.0"
-judge_rounds: 2
+judge_rounds: 1
 ---
 # Routing rows by hash(key) mod N moves most keys when a shard is added
 

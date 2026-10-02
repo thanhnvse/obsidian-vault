@@ -4,11 +4,11 @@ status: draft
 author: claude
 source: "https://kafka.apache.org/43/design/design/"
 created: 2026-09-30
-score: 0.94
+score: 0.92
 review: "ready"
 score_reasons: ["numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"
-judge_rounds: 2
+judge_rounds: 1
 ---
 # Kafka exactly-once covers Kafka-to-Kafka processing, not external side effects
 

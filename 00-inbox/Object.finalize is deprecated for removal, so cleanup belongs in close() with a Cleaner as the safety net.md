@@ -5,11 +5,11 @@ author: claude
 up: ["[[Java core MOC]]"]
 source: "https://openjdk.org/jeps/421"
 created: 2026-10-01
-score: 0.893
+score: 0.843
 review: "ready"
-score_reasons: ["numbers: verify every figure yourself"]
+score_reasons: []
 judged_by: "jev-1.13.0"
-judge_rounds: 2
+judge_rounds: 1
 ---
 # Object.finalize is deprecated for removal, so cleanup belongs in close() with a Cleaner as the safety net
 

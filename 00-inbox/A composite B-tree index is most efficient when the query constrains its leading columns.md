@@ -4,11 +4,11 @@ status: draft
 author: claude
 source: "https://www.postgresql.org/docs/18/indexes-multicolumn.html"
 created: 2026-09-30
-score: 0.872
-review: "borderline"
-score_reasons: ["atomic: 0.55 (borderline)", "numbers: verify every figure yourself"]
+score: 0.877
+review: "ready"
+score_reasons: []
 judged_by: "jev-1.13.0"
-judge_rounds: 2
+judge_rounds: 1
 ---
 # A composite B-tree index is most efficient when the query constrains its leading columns
 

@@ -4,11 +4,11 @@ status: draft
 author: claude
 source: "https://learn.microsoft.com/en-us/previous-versions/troubleshoot/microsoft-365/microsoft-365-apps/access/database-normalization-description"
 created: 2026-09-30
-score: 0.858
-review: "borderline"
-score_reasons: ["atomic: 0.54 (borderline)", "numbers: verify every figure yourself"]
+score: 0.89
+review: "ready"
+score_reasons: []
 judged_by: "jev-1.13.0"
-judge_rounds: 2
+judge_rounds: 1
 ---
 # Third normal form removes update anomalies by making every non-key column depend only on the key
 

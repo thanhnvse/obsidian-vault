@@ -4,7 +4,7 @@ status: draft
 author: claude
 source: "https://docs.spring.io/spring-data/jpa/reference/jpa/transactions.html"
 created: 2026-09-30
-score: 0.85
+score: 0.787
 review: "ready"
 score_reasons: ["numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"

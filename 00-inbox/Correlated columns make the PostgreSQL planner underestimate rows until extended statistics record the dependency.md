@@ -5,7 +5,7 @@ author: claude
 up: ["[[Indexes and query performance MOC]]"]
 source: "https://www.postgresql.org/docs/15/planner-stats.html"
 created: 2026-10-01
-score: 0.872
+score: 0.92
 review: "ready"
 score_reasons: ["numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"

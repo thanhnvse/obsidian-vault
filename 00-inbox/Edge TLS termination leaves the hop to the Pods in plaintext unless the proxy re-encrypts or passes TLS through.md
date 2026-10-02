@@ -5,7 +5,7 @@ author: claude
 up: ["[[Security MOC]]"]
 source: "https://gateway-api.sigs.k8s.io/guides/tls/"
 created: 2026-10-01
-score: 0.896
+score: 0.883
 review: "ready"
 score_reasons: ["numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"

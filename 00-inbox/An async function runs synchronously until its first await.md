@@ -5,7 +5,7 @@ author: claude
 up: ["[[Frontend interview MOC]]"]
 source: "https://tc39.es/ecma262/multipage/control-abstraction-objects.html#sec-async-functions-abstract-operations-async-function-start"
 created: 2026-10-01
-score: 0.852
+score: 0.91
 review: "ready"
 score_reasons: []
 judged_by: "jev-1.13.0"

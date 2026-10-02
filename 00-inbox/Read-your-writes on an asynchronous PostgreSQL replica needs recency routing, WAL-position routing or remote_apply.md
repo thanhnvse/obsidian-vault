@@ -5,9 +5,9 @@ author: claude
 up: ["[[System design MOC]]", "[[Database MOC]]"]
 source: "https://www.postgresql.org/docs/18/warm-standby.html"
 created: 2026-10-01
-score: 0.888
+score: 0.833
 review: "ready"
-score_reasons: ["numbers: verify every figure yourself"]
+score_reasons: []
 judged_by: "jev-1.13.0"
 judge_rounds: 1
 ---

@@ -4,7 +4,7 @@ status: draft
 author: claude
 source: "https://docs.spring.io/spring-framework/reference/data-access/transaction/declarative/annotations.html"
 created: 2026-09-30
-score: 0.868
+score: 0.88
 review: "ready"
 score_reasons: []
 judged_by: "jev-1.13.0"

@@ -5,7 +5,7 @@ author: claude
 up: ["[[Ops and cloud MOC]]"]
 source: "https://sre.google/workbook/canarying-releases/"
 created: 2026-10-01
-score: 0.913
+score: 0.88
 review: "ready"
 score_reasons: ["numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"

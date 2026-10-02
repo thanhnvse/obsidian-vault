@@ -5,11 +5,11 @@ author: claude
 up: ["[[Security MOC]]"]
 source: "https://docs.docker.com/build/building/secrets/"
 created: 2026-10-01
-score: 0.917
+score: 0.853
 review: "ready"
 score_reasons: []
 judged_by: "jev-1.13.0"
-judge_rounds: 2
+judge_rounds: 1
 ---
 # Docker build arguments and ENV values persist in the image, so a build needs secret mounts for credentials
 

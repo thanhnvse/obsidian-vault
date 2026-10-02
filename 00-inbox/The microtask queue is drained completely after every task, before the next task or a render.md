@@ -5,9 +5,9 @@ author: claude
 up: ["[[Frontend interview MOC]]"]
 source: "https://html.spec.whatwg.org/multipage/webappapis.html#event-loop-processing-model"
 created: 2026-10-01
-score: 0.907
+score: 0.897
 review: "ready"
-score_reasons: []
+score_reasons: ["numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"
 judge_rounds: 1
 ---

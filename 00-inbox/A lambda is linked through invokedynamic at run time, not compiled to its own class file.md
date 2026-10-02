@@ -4,11 +4,11 @@ status: draft
 author: claude
 source: "https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/lang/invoke/LambdaMetafactory.html"
 created: 2026-09-30
-score: 0.899
+score: 0.873
 review: "ready"
 score_reasons: []
 judged_by: "jev-1.13.0"
-judge_rounds: 2
+judge_rounds: 1
 ---
 # A lambda is linked through invokedynamic at run time, not compiled to its own class file
 

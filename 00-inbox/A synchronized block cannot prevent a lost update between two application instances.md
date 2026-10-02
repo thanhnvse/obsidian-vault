@@ -4,9 +4,9 @@ status: draft
 author: claude
 source: "https://docs.oracle.com/javase/specs/jls/se21/html/jls-17.html"
 created: 2026-09-30
-score: 0.925
+score: 0.91
 review: "ready"
-score_reasons: ["numbers: verify every figure yourself"]
+score_reasons: []
 judged_by: "jev-1.13.0"
 judge_rounds: 1
 ---

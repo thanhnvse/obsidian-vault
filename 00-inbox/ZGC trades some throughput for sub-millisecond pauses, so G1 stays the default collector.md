@@ -4,11 +4,11 @@ status: draft
 author: claude
 source: "https://docs.oracle.com/en/java/javase/25/gctuning/available-collectors.html"
 created: 2026-09-30
-score: 0.876
-review: "borderline"
-score_reasons: ["atomic: 0.51 (borderline)", "numbers: verify every figure yourself"]
+score: 0.863
+review: "ready"
+score_reasons: ["numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"
-judge_rounds: 2
+judge_rounds: 1
 ---
 # ZGC trades some throughput for sub-millisecond pauses, so G1 stays the default collector
 

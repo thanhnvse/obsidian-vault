@@ -5,7 +5,7 @@ author: claude
 up: ["[[System design MOC]]"]
 source: "https://github.com/brettwooldridge/HikariCP/wiki/About-Pool-Sizing"
 created: 2026-10-01
-score: 0.853
+score: 0.883
 review: "ready"
 score_reasons: ["numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"

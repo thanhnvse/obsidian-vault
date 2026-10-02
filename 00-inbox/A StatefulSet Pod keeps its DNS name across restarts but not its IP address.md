@@ -5,7 +5,7 @@ author: claude
 up: ["[[Kubernetes MOC]]"]
 source: "https://kubernetes.io/docs/tutorials/stateful-application/basic-stateful-set/"
 created: 2026-10-01
-score: 0.91
+score: 0.887
 review: "ready"
 score_reasons: ["numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"

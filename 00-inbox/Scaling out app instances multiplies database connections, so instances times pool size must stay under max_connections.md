@@ -5,9 +5,9 @@ author: claude
 up: ["[[System design MOC]]", "[[Database MOC]]"]
 source: "https://www.postgresql.org/docs/18/runtime-config-connection.html"
 created: 2026-10-01
-score: 0.881
+score: 0.903
 review: "ready"
-score_reasons: ["numbers: verify every figure yourself"]
+score_reasons: []
 judged_by: "jev-1.13.0"
 judge_rounds: 1
 ---

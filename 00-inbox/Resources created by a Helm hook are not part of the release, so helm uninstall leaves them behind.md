@@ -5,7 +5,7 @@ author: claude
 up: ["[[Kubernetes MOC]]"]
 source: "https://helm.sh/docs/topics/charts_hooks/"
 created: 2026-10-01
-score: 0.899
+score: 0.897
 review: "ready"
 score_reasons: ["numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"

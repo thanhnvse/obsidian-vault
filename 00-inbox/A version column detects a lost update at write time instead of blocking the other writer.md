@@ -4,7 +4,7 @@ status: draft
 author: claude
 source: "https://jakarta.ee/specifications/persistence/3.2/apidocs/jakarta.persistence/jakarta/persistence/version"
 created: 2026-09-30
-score: 0.862
+score: 0.88
 review: "ready"
 score_reasons: ["numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"

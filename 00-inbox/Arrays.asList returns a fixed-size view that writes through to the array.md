@@ -5,9 +5,9 @@ author: claude
 up: ["[[Java collections MOC]]"]
 source: "https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/Arrays.html#asList(T...)"
 created: 2026-10-01
-score: 0.911
+score: 0.877
 review: "ready"
-score_reasons: ["numbers: verify every figure yourself"]
+score_reasons: []
 judged_by: "jev-1.13.0"
 judge_rounds: 1
 ---

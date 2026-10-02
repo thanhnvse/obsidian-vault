@@ -5,7 +5,7 @@ author: claude
 up: ["[[Java core MOC]]"]
 source: "https://openjdk.org/jeps/439"
 created: 2026-09-30
-score: 0.914
+score: 0.893
 review: "ready"
 score_reasons: ["numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"

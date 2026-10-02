@@ -5,7 +5,7 @@ author: claude
 up: ["[[Microservices and messaging MOC]]"]
 source: "https://microservices.io/patterns/data/transactional-outbox.html"
 created: 2026-10-01
-score: 0.821
+score: 0.883
 review: "ready"
 score_reasons: []
 judged_by: "jev-1.13.0"

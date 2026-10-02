@@ -4,11 +4,11 @@ status: draft
 author: claude
 source: "https://docs.spring.io/spring-framework/reference/data-access/transaction/event.html"
 created: 2026-09-30
-score: 0.841
-review: "parked"
-score_reasons: ["atomic: 0.32 (fail)"]
+score: 0.817
+review: "ready"
+score_reasons: []
 judged_by: "jev-1.13.0"
-judge_rounds: 2
+judge_rounds: 1
 ---
 # @TransactionalEventListener moves a side effect after the commit but loses it if the process dies
 

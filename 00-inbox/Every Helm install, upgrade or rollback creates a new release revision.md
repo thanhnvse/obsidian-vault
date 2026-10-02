@@ -4,11 +4,11 @@ status: draft
 author: claude
 source: "https://helm.sh/docs/intro/using_helm/"
 created: 2026-09-30
-score: 0.899
+score: 0.863
 review: "ready"
 score_reasons: ["numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"
-judge_rounds: 2
+judge_rounds: 1
 ---
 # Every Helm install, upgrade or rollback creates a new release revision
 

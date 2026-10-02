@@ -4,11 +4,11 @@ status: draft
 author: claude
 source: "https://docs.oracle.com/javase/specs/jls/se21/html/jls-15.html#jls-15.27.2"
 created: 2026-09-30
-score: 0.895
-review: "ready"
-score_reasons: ["numbers: verify every figure yourself"]
+score: 0.77
+review: "borderline"
+score_reasons: ["links_reasoned: 0.56 (borderline)", "numbers: verify every figure yourself"]
 judged_by: "jev-1.13.0"
-judge_rounds: 2
+judge_rounds: 1
 ---
 # Inside a lambda, this refers to the enclosing instance, not to the lambda
 

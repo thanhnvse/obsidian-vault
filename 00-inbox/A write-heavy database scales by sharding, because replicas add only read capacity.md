@@ -4,7 +4,7 @@ status: draft
 author: claude
 source: "https://learn.microsoft.com/en-us/azure/architecture/patterns/sharding"
 created: 2026-09-30
-score: 0.885
+score: 0.867
 review: "ready"
 score_reasons: []
 judged_by: "jev-1.13.0"
