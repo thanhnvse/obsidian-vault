@@ -1,17 +1,17 @@
 ---
 type: review-queue
-generated: 2026-10-07T21:27
+generated: 2026-10-08T16:22
 ---
 # Review queue
 
-294 drafts waiting for your review.
+309 drafts waiting for your review.
 
 Tick a note once you have read it and agree with it, then ask Claude to file your approved notes:
 `verify-ticked` sets `status: verified` on exactly the ticked notes and `promote` files them.
 A tick counts only while the note is unchanged since this queue was written; a note edited after
 that comes back unticked for another read. Claude never ticks a box here.
 
-## concurrency → 10-notes/concurrency/ (18)
+## concurrency → 10-notes/concurrency/ (19)
 - [ ] [[SELECT FOR UPDATE on a parent row blocks inserts of child rows that reference it]] · 0.931 · ready · check the numbers %%h:298eb6efcc89%%
 - [ ] [[A synchronized block cannot prevent a lost update between two application instances]] · 0.925 · ready · check the numbers %%h:8ef26302b289%%
 - [ ] [[A conditional UPDATE with the stock check in its WHERE clause cannot oversell under READ COMMITTED]] · 0.91 · ready · check the numbers %%h:aeb346257839%%
@@ -25,13 +25,24 @@ that comes back unticked for another read. Claude never ticks a box here.
 - [ ] [[SELECT FOR UPDATE cannot prevent a double booking because there is no row to lock yet]] · 0.842 · borderline · check the numbers %%h:1031876f48b9%%
 - [ ] [[A ConcurrentHashMap check-then-act is atomic only through computeIfAbsent, compute or merge, and their function runs inside the bin lock]] · unjudged %%h:f7a84fbabbbe%%
 - [ ] [[A deadlock needs four conditions at once, so denying one of them prevents it]] · unjudged %%h:3f7cca3e7afb%%
+- [ ] [[A lock lease without a fencing token cannot stop a paused holder from writing after its lease expired]] · unjudged %%h:c55113b776b8%%
 - [ ] [[A ReentrantLock needs lock() just before the try block and unlock() in finally, or an exception leaks the lock or hides the real error]] · unjudged %%h:dd17120b299b%%
 - [ ] [[A ThreadPoolExecutor starts threads beyond its core size only when the queue refuses the task, so an unbounded queue makes maximumPoolSize irrelevant]] · unjudged %%h:fa0b5d4fc2e8%%
 - [ ] [[A wait() or await() call belongs in a while loop, because a woken thread can find its condition false again]] · unjudged %%h:7974cd77b94e%%
 - [ ] [[CompletableFuture orTimeout and cancel complete the future but never interrupt or stop the task behind it]] · unjudged %%h:0c209169e77b%%
 - [ ] [[On JDK 21 to 23 a virtual thread that blocks inside synchronized stays pinned to its carrier thread, and JDK 24 removes that]] · unjudged %%h:cb4719642563%%
 
-## database → 10-notes/database/ (37)
+## customer-data-platform → 10-notes/customer-data-platform/ (8)
+- [ ] [[A golden customer record must keep each source record's link with its match method and score, so a wrong merge can be explained and undone]] · unjudged %%h:14b76d781f49%%
+- [ ] [[A persona that is a shared archetype keyed by value tier and lifecycle stage stays countable and explainable]] · unjudged %%h:21ae24715122%%
+- [ ] [[A score that divides money by a fixed reference value must normalize the amount per currency or per tenant]] · unjudged %%h:6c46c8012512%%
+- [ ] [[A tracking event should keep what happened, who did it, where, when and the business context in separate fixed fields]] · unjudged %%h:e5245b4b3399%%
+- [ ] [[An event catalog earns its keep only when each event names the profile field and the score it updates]] · unjudged %%h:1dc1271fa47f%%
+- [ ] [[An LLM that names a customer segment should receive aggregated, non-PII statistics only]] · unjudged %%h:fd10148f0024%%
+- [ ] [[Collecting identifiers from weakest to strongest on every event lets anonymous activity be stitched to a known customer later]] · unjudged %%h:371f6fc7b9ec%%
+- [ ] [[Persona history should record only material changes, so it shows transitions instead of noise]] · unjudged %%h:05ed44e265a9%%
+
+## database → 10-notes/database/ (39)
 - [ ] [[PgBouncer transaction pooling breaks session state such as SET, LISTEN and session advisory locks]] · 0.933 · ready · check the numbers %%h:614920b48762%%
 - [ ] [[A plain CREATE INDEX blocks writes to the table until the build finishes]] · 0.924 · ready %%h:36203e320902%%
 - [ ] [[A trigger-maintained counter on a parent row makes concurrent writers of that parent queue on its row lock]] · 0.913 · ready · check the numbers %%h:466e92916127%%
@@ -63,10 +74,12 @@ that comes back unticked for another read. Claude never ticks a box here.
 - [ ] [[Third normal form removes update anomalies by making every non-key column depend only on the key]] · 0.858 · borderline · check the numbers %%h:1609e8ead4c3%%
 - [ ] [[Cardinality decides where a relationship's foreign key goes]] · 0.839 · borderline · check the numbers %%h:a00ae9bfa62a%%
 - [ ] [[PostgreSQL forbids more anomalies than the SQL standard requires at READ UNCOMMITTED and REPEATABLE READ]] · 0.824 · borderline · check the numbers %%h:b3c274701915%%
+- [ ] [[A remote call inside a database transaction holds its locks and pooled connection for as long as the call takes]] · unjudged %%h:d8811042ae99%%
 - [ ] [[A WHERE condition on the optional side of a LEFT JOIN drops the unmatched rows, so the join acts as an INNER JOIN unless the condition tests for NULL]] · unjudged %%h:3e11d4df5632%%
 - [ ] [[ACID's C means a transaction preserves the database rules, while CAP's C is only single-copy consistency, a strict subset of ACID's]] · unjudged %%h:81b2c0da5ed1%%
 - [ ] [[In PostgreSQL, synchronous_commit = off risks losing the last committed transactions in a crash but not the consistency of the database]] · unjudged %%h:36ce2d0bfc71%%
 - [ ] [[NOT IN returns no rows when its subquery yields a NULL, so NOT EXISTS is the safe test for rows with no match]] · unjudged %%h:b1d7af868dc3%%
+- [ ] [[PostgreSQL row-level security skips superusers, BYPASSRLS roles and table owners, so tenant-isolation tests must run as the application role]] · unjudged %%h:9cc3889b6ef6%%
 - [ ] [[ROLLBACK TO SAVEPOINT discards only the work done after the savepoint, which is how a PostgreSQL transaction carries on after a failed statement]] · unjudged %%h:c62eca1992c3%%
 - [ ] [[TRUNCATE rolls back in PostgreSQL, but MySQL and Oracle commit it implicitly, so it cannot be undone there]] · unjudged %%h:0e72c6238a6f%%
 
@@ -186,7 +199,7 @@ that comes back unticked for another read. Claude never ticks a box here.
 - [ ] [[Mutable default arguments are evaluated once at definition time]] · unjudged %%h:06ab2883bf56%%
 - [ ] [[Python memory is managed by reference counting plus a cycle collector]] · unjudged %%h:7002eaf262dc%%
 
-## security → 10-notes/security/ (24)
+## security → 10-notes/security/ (25)
 - [ ] [[Docker build arguments and ENV values persist in the image, so a build needs secret mounts for credentials]] · 0.917 · ready %%h:1e4562d51db2%%
 - [ ] [[Turning on Kubernetes encryption at rest leaves existing Secrets unencrypted until they are rewritten]] · 0.916 · ready · check the numbers %%h:c8f1fd8f6d09%%
 - [ ] [[TLS 1.3 early data can be replayed, so HTTP sends only safe methods in 0-RTT]] · 0.913 · ready · check the numbers %%h:e2eb257f51dd%%
@@ -211,6 +224,7 @@ that comes back unticked for another read. Claude never ticks a box here.
 - [ ] [[HTTPS hides the request path and headers but not the IP addresses or the SNI hostname]] · 0.87 · borderline · check the numbers %%h:dc14d9cecda5%%
 - [ ] [[A Kubernetes Secret is only base64-encoded and is stored unencrypted in etcd by default]] · 0.856 · borderline · check the numbers %%h:8cf00e129378%%
 - [ ] [[A TLS 1.3 full handshake authenticates the server and agrees keys in one round trip]] · 0.838 · borderline · check the numbers %%h:da1f47d3c029%%
+- [ ] [[A response cache in front of row-level security leaks across tenants unless the tenant is part of every cache key]] · unjudged %%h:60bf241426d2%%
 
 ## spring → 10-notes/spring/ (47)
 - [ ] [[Spring does not call @PreDestroy on prototype-scoped beans]] · 0.92 · ready %%h:161aada9fac9%%
@@ -261,7 +275,7 @@ that comes back unticked for another read. Claude never ticks a box here.
 - [ ] [[JPA merge() of a detached entity returns a managed copy and leaves the argument detached, so later changes to the argument are not tracked]] · unjudged %%h:9d043723b1d5%%
 - [ ] [[The first @ControllerAdvice with any matching handler wins, even over a more specific handler in a later advice]] · unjudged %%h:1fe763f46872%%
 
-## system-design → 10-notes/system-design/ (24)
+## system-design → 10-notes/system-design/ (26)
 - [ ] [[A queue in front of a service levels load spikes at the cost of an immediate response]] · 0.923 · ready %%h:dfa986fe2611%%
 - [ ] [[A shared-cache outage sends the whole read load to the database, so the fallback needs its own limit]] · 0.909 · ready %%h:4d5c0e16b4c3%%
 - [ ] [[Routing rows by hash(key) mod N moves most keys when a shard is added]] · 0.906 · ready %%h:99f3a5210a7c%%
@@ -282,15 +296,18 @@ that comes back unticked for another read. Claude never ticks a box here.
 - [ ] [[Redis evicts keys only at maxmemory, and maxmemory 0, the 64-bit default, sets no limit at all]] · 0.862 · borderline · check the numbers %%h:0565dc6729c7%%
 - [ ] [[A cache stampede happens when a hot key expires and many requests regenerate it at once]] · 0.777 · borderline · check the numbers %%h:d395e082132b%%
 - [ ] [[A 301 redirect is heuristically cacheable under RFC 9110, so a URL shortener that counts clicks or edits links should answer 302]] · unjudged %%h:6fe52a328be3%%
+- [ ] [[A full bounded queue should reject new work with 503 and Retry-After instead of falling back to a synchronous write]] · unjudged %%h:6fefe13612c3%%
+- [ ] [[A Redis instance tuned as an LRU cache cannot also be a durable queue, lock store or idempotency store]] · unjudged %%h:ee9d217abeca%%
 - [ ] [[A truncated hash used as a short code collides far sooner than its code space suggests, by the birthday bound]] · unjudged %%h:e4682a5ebd0e%%
 - [ ] [[A write that bypasses Hibernate leaves its second-level cache serving the old value until the entry is evicted or expires]] · unjudged %%h:c781858344a5%%
 - [ ] [[By default Redis replication is asynchronous, so a write the master acknowledged can be lost when a replica is promoted]] · unjudged %%h:08042d6bedf1%%
 - [ ] [[Redis executes commands on a single thread, although the process also has helper threads and optional io-threads]] · unjudged %%h:ed73e0b7f153%%
 
-## Maps → 20-moc/ (18)
+## Maps → 20-moc/ (19)
 - [ ] [[@Transactional MOC]] · map %%h:2743dfa8c1da%%
 - [ ] [[Caching MOC]] · map %%h:ce885a2d6887%%
 - [ ] [[Concurrency MOC]] · map %%h:8f372a4f9e83%%
+- [ ] [[Customer data platform MOC]] · map %%h:74e34b0a74d4%%
 - [ ] [[Database MOC]] · map %%h:6b4b9360973e%%
 - [ ] [[Frontend interview MOC]] · map %%h:f7908070c04c%%
 - [ ] [[Indexes and query performance MOC]] · map %%h:5884db9ecef0%%
