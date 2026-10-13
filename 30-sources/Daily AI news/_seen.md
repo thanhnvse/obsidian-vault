@@ -1,6 +1,6 @@
 ---
 type: ai-news-ledger
-last_run: 2026-10-09T03:13+07:00
+last_run: 2026-10-10T03:13+07:00
 ---
 # Seen AI news
 
@@ -70,3 +70,20 @@ day or in an earlier week is not written again.
 - `aaronson-labs-probing-crypto-breaking` · 2026-10-08 · [[2026-10-08]] · Labs probing crypto-breaking (Aaronson)
 - `openai-anthropic-australia-copyright-lobbying` · 2026-10-08 · [[2026-10-08]] · OpenAI/Anthropic Australia copyright hearing
 - `openai-chatgpt-intelligent-ui-gpt-6-update` · 2026-10-08 · [[2026-10-08]] · GPT-6 reaches Free/Go tiers
+- `alibaba-qwen-image-2-1-turbo-release` · 2026-10-09 · [[2026-10-09]] · Qwen-Image-2.1-Turbo
+- `reka-edge-2603-grok-imagine-video-1-5-lite` · 2026-10-09 · [[2026-10-09]] · Reka Edge 2603, Grok Imagine Video 1.5 Lite
+- `memento-3-arc-agi-3-paper` · 2026-10-09 · [[2026-10-09]] · Memento 3 clears public ARC-AGI-3
+- `google-workspace-mcp-v2-release` · 2026-10-09 · [[2026-10-09]] · Google Workspace MCP v2
+- `big-arrow-on-the-screen-agent-cli` · 2026-10-09 · [[2026-10-09]] · big-arrow-on-the-screen agent CLI
+- `typesafe-870m-raise` · 2026-10-09 · [[2026-10-09]] · TypeSafe $870M at $7.5B
+- `sabi-50m-seed` · 2026-10-09 · [[2026-10-09]] · Sabi $50M seed
+- `ultra-62m-physical-intelligence` · 2026-10-09 · [[2026-10-09]] · Ultra $62M warehouse robots
+- `anthropic-cyber-mission-oss-scanner` · 2026-10-09 · [[2026-10-09]] · Anthropic Cyber Mission + OSS Scanner
+- `zenity-aws-agentcore-agentcorruption` · 2026-10-09 · [[2026-10-09]] · Zenity AgentCore flaw chain
+- `gannett-usa-today-openai-lawsuit` · 2026-10-09 · [[2026-10-09]] · USA Today Co. sues OpenAI
+- `iran-chatgpt-planted-articles-us-media` · 2026-10-09 · [[2026-10-09]] · Iranian ChatGPT-drafted articles in US media
+- `artex-ai-pentest-tool-withdrawn` · 2026-10-09 · [[2026-10-09]] · ARTEX pentest tool withdrawn
+- `semianalysis-chinese-labs-safety-evals` · 2026-10-09 · [[2026-10-09]] · Chinese labs safety evals 31/857
+- `meta-muse-launch-safety-nyt` · 2026-10-09 · [[2026-10-09]] · Muse launch over safety flags (NYT)
+- `alibaba-sues-dod-1260h-listing` · 2026-10-09 · [[2026-10-09]] · Alibaba sues DoD over 1260H
+- `india-ai-regulation-consultation-paper` · 2026-10-09 · [[2026-10-09]] · India AI regulation consultation paper
