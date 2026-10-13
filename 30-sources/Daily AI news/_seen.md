@@ -1,6 +1,6 @@
 ---
 type: ai-news-ledger
-last_run: 2026-10-10T03:13+07:00
+last_run: 2026-10-13T10:30+07:00
 ---
 # Seen AI news
 
@@ -87,3 +87,21 @@ day or in an earlier week is not written again.
 - `meta-muse-launch-safety-nyt` · 2026-10-09 · [[2026-10-09]] · Muse launch over safety flags (NYT)
 - `alibaba-sues-dod-1260h-listing` · 2026-10-09 · [[2026-10-09]] · Alibaba sues DoD over 1260H
 - `india-ai-regulation-consultation-paper` · 2026-10-09 · [[2026-10-09]] · India AI regulation consultation paper
+- `meta-muse-wonder-release` · 2026-10-12 · [[2026-10-12]] · Meta Muse Wonder / Wonder Full
+- `torvalds-page-cache-claude-code-branch` · 2026-10-12 · [[2026-10-12]] · Torvalds page-cache branch with Claude Code
+- `harvard-jellyfish-coding-agents-output-study` · 2026-10-12 · [[2026-10-12]] · Coding agents: more code, not more software
+- `agent37-agent-sandboxes-launch` · 2026-10-12 · [[2026-10-12]] · Agent37 hosted agent sandboxes
+- `nvidia-ocp-2026-vera-rubin-mgx-1-2` · 2026-10-12 · [[2026-10-12]] · Nvidia OCP: Vera Rubin, MGX 1.2, ODC v0.7
+- `microsoft-maia-300-details` · 2026-10-12 · [[2026-10-12]] · Microsoft Maia 300
+- `amd-helion-intel-d270-ocp-2026` · 2026-10-12 · [[2026-10-12]] · AMD Helion rack, Intel D270
+- `infinigence-ai-series-c-hk-ipo` · 2026-10-12 · [[2026-10-12]] · Infinigence AI $344M + HK IPO filing
+- `volta-5b-ai-loan-limited-underwriting` · 2026-10-12 · [[2026-10-12]] · Volta $5B loan, banks take $1.3B
+- `omron-onlogic-675m-acquisition` · 2026-10-12 · [[2026-10-12]] · Omron buys OnLogic $675M
+- `suki-90m-series-e` · 2026-10-12 · [[2026-10-12]] · Suki $90M Series E
+- `kroger-3000-corporate-roles-ai` · 2026-10-12 · [[2026-10-12]] · Kroger cuts 3,000 corporate roles
+- `microsoft-israel-copilot-studio-layoffs` · 2026-10-12 · [[2026-10-12]] · Microsoft Israel / Copilot Studio cuts
+- `epic-games-ai-first-memo` · 2026-10-12 · [[2026-10-12]] · Epic Games AI-first memo
+- `anthropic-small-model-self-replication-research` · 2026-10-12 · [[2026-10-12]] · Anthropic small-model self-replication on IoT
+- `anthropic-internal-evals-offline-unintended-actions` · 2026-10-12 · [[2026-10-12]] · Anthropic takes internal evals offline
+- `cnbc-third-party-ai-evaluators-profile` · 2026-10-12 · [[2026-10-12]] · METR/Apollo/Transluce as gatekeepers
+- `china-yau-math-ai-alliance` · 2026-10-12 · [[2026-10-12]] · Yau's China math-AI alliance
