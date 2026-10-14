@@ -1,6 +1,6 @@
 ---
 type: ai-news-ledger
-last_run: 2026-10-13T10:30+07:00
+last_run: 2026-10-14T03:13+07:00
 ---
 # Seen AI news
 
@@ -105,3 +105,23 @@ day or in an earlier week is not written again.
 - `anthropic-internal-evals-offline-unintended-actions` · 2026-10-12 · [[2026-10-12]] · Anthropic takes internal evals offline
 - `cnbc-third-party-ai-evaluators-profile` · 2026-10-12 · [[2026-10-12]] · METR/Apollo/Transluce as gatekeepers
 - `china-yau-math-ai-alliance` · 2026-10-12 · [[2026-10-12]] · Yau's China math-AI alliance
+- `independent-gemma-transcribe-release` · 2026-10-13 · [[2026-10-13]] · Gemma Transcribe (EmbeddingGemma 2 STT)
+- `anthropic-scion-source-control` · 2026-10-13 · [[2026-10-13]] · Anthropic Scion replaces git
+- `digitalocean-agent-data-learning-preview` · 2026-10-13 · [[2026-10-13]] · DigitalOcean Agent Data / Agent Learning
+- `apple-minions-distributed-gpu-research` · 2026-10-13 · [[2026-10-13]] · Apple Minions idle-GPU cloud
+- `ntt-anthropic-osaka-datacenter` · 2026-10-13 · [[2026-10-13]] · NTT Data $6.3B Osaka DC for Anthropic
+- `decagon-servicenow-buyout-talks` · 2026-10-13 · [[2026-10-13]] · Decagon–ServiceNow buyout talks
+- `applied-intuition-30b-offers` · 2026-10-13 · [[2026-10-13]] · Applied Intuition $30B offers
+- `pluto-security-42m-raise` · 2026-10-13 · [[2026-10-13]] · Pluto Security $42M
+- `scuba-34m-agent-memory` · 2026-10-13 · [[2026-10-13]] · Scuba $34M agent context engine
+- `arm-qualcomm-jury-verdict` · 2026-10-13 · [[2026-10-13]] · Arm breached Qualcomm license ($2)
+- `idc-nvidia-huawei-china-share-h1-2026` · 2026-10-13 · [[2026-10-13]] · Nvidia China share falls, Huawei 28%
+- `scaleway-sweden-amd-supercomputer` · 2026-10-13 · [[2026-10-13]] · Scaleway AMD supercomputer in Sweden
+- `imf-weo-oct-2026-ai-capex` · 2026-10-13 · [[2026-10-13]] · IMF 3.1% forecast, AI capex risk
+- `anthropic-distillation-defenses` · 2026-10-13 · [[2026-10-13]] · Anthropic anti-distillation defenses
+- `anthropic-openai-evaluator-report-control` · 2026-10-13 · [[2026-10-13]] · Labs sought control of evaluator reports
+- `meta-github-breach-1500` · 2026-10-13 · [[2026-10-13]] · Meta GitHub breach, 1,500 people
+- `us-bank-regulators-agentic-ai-scrutiny` · 2026-10-13 · [[2026-10-13]] · US bank regulators on agentic AI
+- `apple-homeview-eu-ai-act` · 2026-10-13 · [[2026-10-13]] · Apple HomeView skips EU
+- `jack-clark-rsi-2027-forecast` · 2026-10-13 · [[2026-10-13]] · Jack Clark RSI forecast 2027
+- `google-gemini-4-argon-announcement-update` · 2026-10-13 · [[2026-10-13]] · Gemini 4 Argon broad availability (reported)
