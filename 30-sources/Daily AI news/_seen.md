@@ -1,6 +1,6 @@
 ---
 type: ai-news-ledger
-last_run: 2026-10-14T03:13+07:00
+last_run: 2026-10-15T03:13+07:00
 ---
 # Seen AI news
 
@@ -125,3 +125,23 @@ day or in an earlier week is not written again.
 - `apple-homeview-eu-ai-act` · 2026-10-13 · [[2026-10-13]] · Apple HomeView skips EU
 - `jack-clark-rsi-2027-forecast` · 2026-10-13 · [[2026-10-13]] · Jack Clark RSI forecast 2027
 - `google-gemini-4-argon-announcement-update` · 2026-10-13 · [[2026-10-13]] · Gemini 4 Argon broad availability (reported)
+- `workday-sana-agent-harness-ga` · 2026-10-14 · [[2026-10-14]] · Workday Sana + Agent Harness
+- `dxc-langchain-oasis-partnership` · 2026-10-14 · [[2026-10-14]] · DXC–LangChain OASIS
+- `epic-games-agent-built-launcher-linux` · 2026-10-14 · [[2026-10-14]] · Epic agent-built launcher, Linux
+- `booking-vayo-ai-travel-agent-launch` · 2026-10-14 · [[2026-10-14]] · Booking Vayo travel agent
+- `modal-750m-series-d` · 2026-10-14 · [[2026-10-14]] · Modal $750M at $15.75B
+- `salience-labs-125m-series-b` · 2026-10-14 · [[2026-10-14]] · Salience Labs $125M optical switches
+- `harmonic-security-50m-series-b` · 2026-10-14 · [[2026-10-14]] · Harmonic Security $50M
+- `coreweave-bond-yield-selloff` · 2026-10-14 · [[2026-10-14]] · CoreWeave bond yield 15% selloff
+- `gartner-ai-infra-impairment-forecast` · 2026-10-14 · [[2026-10-14]] · Gartner $3.5T impairment risk
+- `alphabet-2026-capex-200b` · 2026-10-14 · [[2026-10-14]] · Alphabet ~$200B 2026 capex
+- `asml-q3-2026-guidance-raise` · 2026-10-14 · [[2026-10-14]] · ASML Q3, €44–45B guidance
+- `globalfoundries-ny-fabs-japan-funding` · 2026-10-14 · [[2026-10-14]] · GlobalFoundries NY fabs, $21B Japan
+- `aep-bloom-google-702mw-fuel-cells` · 2026-10-14 · [[2026-10-14]] · AEP 702 MW fuel cells for Google
+- `openai-compute-chief-ruddarraju` · 2026-10-14 · [[2026-10-14]] · OpenAI new data-center chief
+- `eu-ai-office-openai-anthropic-probe` · 2026-10-14 · [[2026-10-14]] · EU AI Act probes OpenAI/Anthropic
+- `xbow-chrome-chain-gpt-5-6-agents` · 2026-10-14 · [[2026-10-14]] · XBOW Chrome chain with agents
+- `hinton-bengio-400-scientists-letter` · 2026-10-14 · [[2026-10-14]] · 400 scientists: international regulator
+- `ai-safety-midterms-48m-spend` · 2026-10-14 · [[2026-10-14]] · AI-safety $48M midterms
+- `youtube-music-ai-labels` · 2026-10-14 · [[2026-10-14]] · YouTube Music AI labels
+- `anthropic-ipo-s1-status-update` · 2026-10-14 · [[2026-10-14]] · Anthropic prospectus ~Oct 25 (reported)
