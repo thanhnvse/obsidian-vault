@@ -1,6 +1,6 @@
 ---
 type: ai-news-ledger
-last_run: 2026-10-15T03:13+07:00
+last_run: 2026-10-16T03:12+07:00
 ---
 # Seen AI news
 
@@ -145,3 +145,20 @@ day or in an earlier week is not written again.
 - `ai-safety-midterms-48m-spend` · 2026-10-14 · [[2026-10-14]] · AI-safety $48M midterms
 - `youtube-music-ai-labels` · 2026-10-14 · [[2026-10-14]] · YouTube Music AI labels
 - `anthropic-ipo-s1-status-update` · 2026-10-14 · [[2026-10-14]] · Anthropic prospectus ~Oct 25 (reported)
+- `meta-muse-spark-open-release` · 2026-10-15 · [[2026-10-15]] · Meta Muse Spark Open 816B
+- `nvidia-nemotron-3-5-super-vl-bolt-release` · 2026-10-15 · [[2026-10-15]] · Nemotron 3.5 Super VL / Bolt
+- `swiss-ai-apertus-1-5-release` · 2026-10-15 · [[2026-10-15]] · Apertus 1.5
+- `github-ai-scan-agentic-autofix-ga` · 2026-10-15 · [[2026-10-15]] · GitHub AI Scan + Agentic Autofix GA
+- `accenture-claude-spend-cap` · 2026-10-15 · [[2026-10-15]] · Accenture $29 Claude cap
+- `gnome-claude-hardware-drivers` · 2026-10-15 · [[2026-10-15]] · GNOME drivers with Claude
+- `deepseek-outage-api-refund` · 2026-10-15 · [[2026-10-15]] · DeepSeek outage, week refund
+- `cohere-aisle-acquisition-loi` · 2026-10-15 · [[2026-10-15]] · Cohere LOI to acquire AISLE
+- `labelbox-series-e` · 2026-10-15 · [[2026-10-15]] · Labelbox $100M+ Series E
+- `tsmc-q3-2026-results` · 2026-10-15 · [[2026-10-15]] · TSMC Q3 $46.72B
+- `china-sept-2026-chip-exports-record` · 2026-10-15 · [[2026-10-15]] · China chip exports record
+- `google-news-ai-pilot-400-publishers` · 2026-10-15 · [[2026-10-15]] · Google News AI pilot 400+
+- `simons-foundation-math-ai-15m` · 2026-10-15 · [[2026-10-15]] · Simons $15M math-AI
+- `ftc-openai-anthropic-cid` · 2026-10-15 · [[2026-10-15]] · FTC CIDs to OpenAI/Anthropic
+- `anthropic-metr-embedded-evaluator` · 2026-10-15 · [[2026-10-15]] · METR embedded, no veto
+- `candiru-spyware-ad-delivery` · 2026-10-15 · [[2026-10-15]] · Candiru spyware via ads
+- `anthropic-openai-evaluator-report-control-update` · 2026-10-15 · [[2026-10-15]] · Evaluator no-veto follow-up
