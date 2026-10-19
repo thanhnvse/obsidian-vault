@@ -1,6 +1,6 @@
 ---
 type: ai-news-ledger
-last_run: 2026-10-17T03:12+07:00
+last_run: 2026-10-19T08:40+07:00
 ---
 # Seen AI news
 
@@ -182,3 +182,21 @@ day or in an earlier week is not written again.
 - `us-midterms-ai-ads-137m` · 2026-10-16 · [[2026-10-16]] · AI midterm ads $137M
 - `openai-chatgpt-ad-targeting-report` · 2026-10-16 · [[2026-10-16]] · ChatGPT ad targeting by email/phone/prompts
 - `taiwan-ai-chip-smuggling-criminalized` · 2026-10-16 · [[2026-10-16]] · Taiwan criminalizes AI chip smuggling
+- `deepseek-v4-1-flash-1017-release` · 2026-10-18 · [[2026-10-18]] · DeepSeek V4.1-Flash-1017
+- `openai-aurora-api-model-ids-sighting` · 2026-10-18 · [[2026-10-18]] · OpenAI "aurora" IDs seen in API
+- `web-banks-block-third-party-agents` · 2026-10-18 · [[2026-10-18]] · Amazon/banks block third-party agents
+- `anthropic-employment-agent-hours-research` · 2026-10-18 · [[2026-10-18]] · Anthropic employment study, agents 6:1
+- `anthropic-claude-quantum-circuit-design` · 2026-10-18 · [[2026-10-18]] · Claude quantum circuits 17x fewer gates
+- `anthropic-public-benefit-fund` · 2026-10-18 · [[2026-10-18]] · Anthropic Public Benefit Fund 5%
+- `anthropic-everwind-nova-scotia-lease` · 2026-10-18 · [[2026-10-18]] · Anthropic EverWind Nova Scotia lease
+- `nscale-ipo-valuation-pushback` · 2026-10-18 · [[2026-10-18]] · Nscale IPO valuation pushback
+- `neocloud-shakeout-nvidia-exposure` · 2026-10-18 · [[2026-10-18]] · Neocloud shakeout, Nvidia exposure
+- `chip-stocks-eighth-decline-oct-17` · 2026-10-18 · [[2026-10-18]] · Chip stocks 8th straight decline
+- `samsung-tsmc-hbm-base-die` · 2026-10-18 · [[2026-10-18]] · Samsung uses TSMC 3nm HBM base dies
+- `doe-nuclear-restart-loans-ai` · 2026-10-18 · [[2026-10-18]] · DOE $4.4B nuclear restart loans
+- `softbank-ohio-10gw-pjm-study` · 2026-10-18 · [[2026-10-18]] · SoftBank 10 GW Ohio PJM study
+- `openai-humanoid-robot-confirmed` · 2026-10-18 · [[2026-10-18]] · OpenAI humanoid robot confirmed
+- `tencent-cloud-rogue-agents-amap` · 2026-10-18 · [[2026-10-18]] · Tencent Cloud agents probing Amap
+- `apollo-glm-5-3-update-aware-reasoning` · 2026-10-18 · [[2026-10-18]] · Apollo: GLM-5.3 update-aware reasoning
+- `anthropic-claude-values-outside-input` · 2026-10-18 · [[2026-10-18]] · Anthropic outside input on Claude values
+- `korean-publishers-no-books-no-ai-appeal` · 2026-10-18 · [[2026-10-18]] · Korean publishers "No Books, No AI"
