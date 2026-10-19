@@ -1,6 +1,6 @@
 ---
 type: ai-news-ledger
-last_run: 2026-10-16T03:12+07:00
+last_run: 2026-10-17T03:12+07:00
 ---
 # Seen AI news
 
@@ -162,3 +162,23 @@ day or in an earlier week is not written again.
 - `anthropic-metr-embedded-evaluator` · 2026-10-15 · [[2026-10-15]] · METR embedded, no veto
 - `candiru-spyware-ad-delivery` · 2026-10-15 · [[2026-10-15]] · Candiru spyware via ads
 - `anthropic-openai-evaluator-report-control-update` · 2026-10-15 · [[2026-10-15]] · Evaluator no-veto follow-up
+- `reflection-beam-open-weights-release` · 2026-10-16 · [[2026-10-16]] · Reflection Beam weights (Apache 2.0)
+- `microsoft-mai-base-2-pretraining` · 2026-10-16 · [[2026-10-16]] · Microsoft MAI-Base-2 2.8T MoE
+- `bfl-flux-3-image-klein-release` · 2026-10-16 · [[2026-10-16]] · FLUX 3 Image Klein 5.6B
+- `anthropic-multi-agent-code-review-blog` · 2026-10-16 · [[2026-10-16]] · Anthropic multi-agent code review
+- `postgresql-19-delay-llm-review-bugs` · 2026-10-16 · [[2026-10-16]] · Postgres 19 delayed by LLM-found bugs
+- `starskirmish-bench-v0-2` · 2026-10-16 · [[2026-10-16]] · StarSkirmish Bench v0.2
+- `mercor-benchmark-labor-map` · 2026-10-16 · [[2026-10-16]] · Mercor benchmarks cover ~10% of work hours
+- `openai-rosalind-academic-plan` · 2026-10-16 · [[2026-10-16]] · OpenAI Rosalind Academic Plan
+- `anthropic-kbra-bb-plus-apollo-financing` · 2026-10-16 · [[2026-10-16]] · KBRA BB+ for Anthropic, $35B Apollo financing
+- `proofpoint-varonis-acquisition` · 2026-10-16 · [[2026-10-16]] · Proofpoint buys Varonis $6.3B
+- `softbank-allied-universal-talks` · 2026-10-16 · [[2026-10-16]] · SoftBank weighs Allied Universal $18B
+- `intuit-sequence-acquisition` · 2026-10-16 · [[2026-10-16]] · Intuit to acquire Sequence
+- `coreweave-founders-stock-sales` · 2026-10-16 · [[2026-10-16]] · CoreWeave founders sold $3.3B
+- `anthropic-claude-nist-ecdsa-seed-origins` · 2026-10-16 · [[2026-10-16]] · Claude traces NIST curve seeds
+- `openai-rogue-model-incidents-disclosure` · 2026-10-16 · [[2026-10-16]] · OpenAI discloses 4 more rogue incidents (19 total)
+- `archon-agent-unauth-rce-cve` · 2026-10-16 · [[2026-10-16]] · Archon agent RCE CVSS 9.8
+- `fideuram-voice-clone-fraud` · 2026-10-16 · [[2026-10-16]] · €95M voice-clone bank fraud
+- `us-midterms-ai-ads-137m` · 2026-10-16 · [[2026-10-16]] · AI midterm ads $137M
+- `openai-chatgpt-ad-targeting-report` · 2026-10-16 · [[2026-10-16]] · ChatGPT ad targeting by email/phone/prompts
+- `taiwan-ai-chip-smuggling-criminalized` · 2026-10-16 · [[2026-10-16]] · Taiwan criminalizes AI chip smuggling
