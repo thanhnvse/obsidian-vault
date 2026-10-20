@@ -1,6 +1,6 @@
 ---
 type: ai-news-ledger
-last_run: 2026-10-19T08:40+07:00
+last_run: 2026-10-20T08:18+07:00
 ---
 # Seen AI news
 
@@ -200,3 +200,21 @@ day or in an earlier week is not written again.
 - `apollo-glm-5-3-update-aware-reasoning` · 2026-10-18 · [[2026-10-18]] · Apollo: GLM-5.3 update-aware reasoning
 - `anthropic-claude-values-outside-input` · 2026-10-18 · [[2026-10-18]] · Anthropic outside input on Claude values
 - `korean-publishers-no-books-no-ai-appeal` · 2026-10-18 · [[2026-10-18]] · Korean publishers "No Books, No AI"
+- `inception-mercury-3-release` · 2026-10-19 · [[2026-10-19]] · Inception Mercury 3 diffusion LLM
+- `minimax-m3-1-flash-release` · 2026-10-19 · [[2026-10-19]] · MiniMax M3.1 Flash
+- `cloudflare-clairic-extraction-model` · 2026-10-19 · [[2026-10-19]] · Cloudflare Clairic extraction model
+- `xiaomi-lens-0-release` · 2026-10-19 · [[2026-10-19]] · Xiaomi Lens-0 4B
+- `aws-torchneuron-open-source-beta` · 2026-10-19 · [[2026-10-19]] · AWS TorchNeuron PyTorch backend
+- `laminar-flow-1-agent-failure-detector` · 2026-10-19 · [[2026-10-19]] · Laminar flow-1
+- `officetown-benchmark-paper` · 2026-10-19 · [[2026-10-19]] · OfficeTown benchmark
+- `openai-30b-raise-1-4t-valuation` · 2026-10-19 · [[2026-10-19]] · OpenAI ~$30B at $1.4T+
+- `nscale-anthropic-45b-compute-talks` · 2026-10-19 · [[2026-10-19]] · Nscale–Anthropic $45B talks
+- `tenstorrent-1-5b-series-e` · 2026-10-19 · [[2026-10-19]] · Tenstorrent $1.5B at $6.2B
+- `meta-prometheus-supercluster-details` · 2026-10-19 · [[2026-10-19]] · Meta Prometheus supercluster
+- `dream-labs-90m-seed` · 2026-10-19 · [[2026-10-19]] · Dream Labs $90M seed
+- `town-108m-series-b-unicorn` · 2026-10-19 · [[2026-10-19]] · Town $108M unicorn
+- `waymo-fleet-8k-20k-plan` · 2026-10-19 · [[2026-10-19]] · Waymo 8K/20K fleet plan
+- `meta-muse-marketplace-address-disclosure` · 2026-10-19 · [[2026-10-19]] · Muse shared seller address
+- `meta-instagram-no-kings-agent-suspension` · 2026-10-19 · [[2026-10-19]] · Instagram suspension via Claude-linked tool
+- `state-ags-character-ai-sale-safeguards` · 2026-10-19 · [[2026-10-19]] · 39 AGs on Character.AI sale
+- `anthropic-ipo-s1-status-update-2` · 2026-10-19 · [[2026-10-19]] · Anthropic IPO expected mid-November
