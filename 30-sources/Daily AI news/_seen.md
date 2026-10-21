@@ -1,6 +1,6 @@
 ---
 type: ai-news-ledger
-last_run: 2026-10-20T08:18+07:00
+last_run: 2026-10-21T03:12+07:00
 ---
 # Seen AI news
 
@@ -218,3 +218,21 @@ day or in an earlier week is not written again.
 - `meta-instagram-no-kings-agent-suspension` · 2026-10-19 · [[2026-10-19]] · Instagram suspension via Claude-linked tool
 - `state-ags-character-ai-sale-safeguards` · 2026-10-19 · [[2026-10-19]] · 39 AGs on Character.AI sale
 - `anthropic-ipo-s1-status-update-2` · 2026-10-19 · [[2026-10-19]] · Anthropic IPO expected mid-November
+- `mistral-voxtral-3-release` · 2026-10-20 · [[2026-10-20]] · Mistral Voxtral 3 voice suite
+- `google-torchtpu-open-source` · 2026-10-20 · [[2026-10-20]] · Google TorchTPU + TPU agent suite
+- `deepseek-deepinfer-open-source` · 2026-10-20 · [[2026-10-20]] · DeepSeek DeepInfer engine
+- `zillow-claude-connector-launch` · 2026-10-20 · [[2026-10-20]] · Zillow Claude connector
+- `mit-csail-claude-island-study` · 2026-10-20 · [[2026-10-20]] · Claude agents on virtual island
+- `daytona-60m-series-b-unicorn` · 2026-10-20 · [[2026-10-20]] · Daytona $60M at $1B
+- `asi-325m-series-c` · 2026-10-20 · [[2026-10-20]] · ASI $325M at $3B
+- `eka-robotics-150m-series-a` · 2026-10-20 · [[2026-10-20]] · Eka Robotics $150M at $1.45B
+- `hertz-oro-mobility-80m` · 2026-10-20 · [[2026-10-20]] · Oro Mobility $80M
+- `china-nvidia-rtx-pro-5500-orders` · 2026-10-20 · [[2026-10-20]] · China $35B RTX PRO 5500 orders
+- `openai-orchestra-bio-acquisition` · 2026-10-20 · [[2026-10-20]] · OpenAI acquires Orchestra Bio
+- `meta-muse-10m-downloads` · 2026-10-20 · [[2026-10-20]] · Muse 10.9M downloads
+- `openai-drops-china-export-control-push` · 2026-10-20 · [[2026-10-20]] · OpenAI drops export-control push
+- `chatgpt-fake-stats-site-citations` · 2026-10-20 · [[2026-10-20]] · ChatGPT cites fake-stats site
+- `openevidence-doximity-settlement` · 2026-10-20 · [[2026-10-20]] · OpenEvidence–Doximity settle
+- `openai-altman-three-endgames` · 2026-10-20 · [[2026-10-20]] · Altman three AI endgames
+- `anthropic-ipo-s1-status-update-3` · 2026-10-20 · [[2026-10-20]] · Anthropic S-1: $16.3B H1 revenue
+- `artex-ai-pentest-tool-withdrawn-update` · 2026-10-20 · [[2026-10-20]] · ARTEX hit ~80 Japanese firms
