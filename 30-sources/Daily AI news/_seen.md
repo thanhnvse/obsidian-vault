@@ -1,6 +1,6 @@
 ---
 type: ai-news-ledger
-last_run: 2026-10-21T03:12+07:00
+last_run: 2026-10-22T03:12+07:00
 ---
 # Seen AI news
 
@@ -236,3 +236,22 @@ day or in an earlier week is not written again.
 - `openai-altman-three-endgames` · 2026-10-20 · [[2026-10-20]] · Altman three AI endgames
 - `anthropic-ipo-s1-status-update-3` · 2026-10-20 · [[2026-10-20]] · Anthropic S-1: $16.3B H1 revenue
 - `artex-ai-pentest-tool-withdrawn-update` · 2026-10-20 · [[2026-10-20]] · ARTEX hit ~80 Japanese firms
+- `recursive-flint-moe-coder-release` · 2026-10-21 · [[2026-10-21]] · Recursive Flint 40B-A2.5B coder
+- `anthropic-claude-duet-preview` · 2026-10-21 · [[2026-10-21]] · Claude Duet research preview
+- `servicenow-arc-agent-ga` · 2026-10-21 · [[2026-10-21]] · ServiceNow Arc GA on OpenShell
+- `trail-of-bits-ai-patch-verification-plugins` · 2026-10-21 · [[2026-10-21]] · Trail of Bits fix-verification plugins
+- `layerfs-1-0-agent-workspaces` · 2026-10-21 · [[2026-10-21]] · LayerFS 1.0 agent workspaces
+- `google-cloud-openai-models-private-preview` · 2026-10-21 · [[2026-10-21]] · OpenAI models on Google Cloud (reported)
+- `nvidia-gtc-berlin-2026-isaac-lab-dsx-pod` · 2026-10-21 · [[2026-10-21]] · Nvidia GTC Berlin: Isaac Lab 3.0, DSX POD
+- `openai-gpt-rosalind-brain-atlas-agents` · 2026-10-21 · [[2026-10-21]] · 2,000 GPT-Rosalind agents on brain atlas
+- `anthropic-claude-scorpion-toxin-binders` · 2026-10-21 · [[2026-10-21]] · Claude designs 17 scorpion-toxin binders
+- `kls-conjecture-ai-assisted-proof` · 2026-10-21 · [[2026-10-21]] · AI-assisted KLS conjecture proof
+- `flapping-airplanes-1b-raise` · 2026-10-21 · [[2026-10-21]] · Flapping Airplanes $1B at $6B
+- `legora-550m-series-e` · 2026-10-21 · [[2026-10-21]] · Legora $550M at $8.8B
+- `mach9-34m-series-a` · 2026-10-21 · [[2026-10-21]] · Mach9 $34M AI CAD
+- `watchtower-35m-defense-logistics` · 2026-10-21 · [[2026-10-21]] · Watchtower $35M defense logistics
+- `openai-chatgpt-ads-26-countries` · 2026-10-21 · [[2026-10-21]] · ChatGPT ads +26 countries
+- `litellm-1-107-0-pypi-compromise` · 2026-10-21 · [[2026-10-21]] · LiteLLM 1.107.0 PyPI compromise
+- `wiz-php2shell-php-rce` · 2026-10-21 · [[2026-10-21]] · Wiz PHP unauth RCEs
+- `hirundo-qwen3-coder-persona-vulnerabilities` · 2026-10-21 · [[2026-10-21]] · Qwen3-Coder persona vulnerabilities
+- `deepmind-engineer-resigns-military-contracts` · 2026-10-21 · [[2026-10-21]] · DeepMind engineer resigns over military AI
