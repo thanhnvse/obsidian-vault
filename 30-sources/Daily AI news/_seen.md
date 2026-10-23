@@ -1,6 +1,6 @@
 ---
 type: ai-news-ledger
-last_run: 2026-10-22T03:12+07:00
+last_run: 2026-10-23T07:59+07:00
 ---
 # Seen AI news
 
@@ -255,3 +255,22 @@ day or in an earlier week is not written again.
 - `wiz-php2shell-php-rce` · 2026-10-21 · [[2026-10-21]] · Wiz PHP unauth RCEs
 - `hirundo-qwen3-coder-persona-vulnerabilities` · 2026-10-21 · [[2026-10-21]] · Qwen3-Coder persona vulnerabilities
 - `deepmind-engineer-resigns-military-contracts` · 2026-10-21 · [[2026-10-21]] · DeepMind engineer resigns over military AI
+- `microsoft-mai-dxo-science-paper` · 2026-10-22 · [[2026-10-22]] · MAI-DxO 83% vs 36% in Science
+- `walmart-agent-gateway-mcp-server` · 2026-10-22 · [[2026-10-22]] · Walmart Agent Gateway MCP server
+- `frontiercs-2-benchmark-release` · 2026-10-22 · [[2026-10-22]] · FrontierCS 2 benchmark
+- `lasagna-rag-composition-study` · 2026-10-22 · [[2026-10-22]] · LASAGNA RAG composition penalty
+- `aaif-agent-skills-open-responses-openenv-opensandbox` · 2026-10-22 · [[2026-10-22]] · AAIF adds Agent Skills, Open Responses, OpenEnv, OpenSandbox
+- `deepseek-15b-raise` · 2026-10-22 · [[2026-10-22]] · DeepSeek ~$15B raise
+- `nasdaq-oct-22-ai-spending-selloff` · 2026-10-22 · [[2026-10-22]] · Nasdaq -2.6%, chips -6.7%
+- `meta-825b-future-commitments` · 2026-10-22 · [[2026-10-22]] · Meta $825B commitments
+- `nvidia-preussenelektra-nuclear-sites` · 2026-10-22 · [[2026-10-22]] · German nuclear sites for AI DCs
+- `goldman-ai-displacement-9-percent` · 2026-10-22 · [[2026-10-22]] · Goldman 9% displacement
+- `a16z-frontier-fund-rename` · 2026-10-22 · [[2026-10-22]] · a16z Frontier fund
+- `formic-50m-series-b` · 2026-10-22 · [[2026-10-22]] · Formic $50M
+- `redwood-metr-openai-agent-monitor-red-team` · 2026-10-22 · [[2026-10-22]] · Red team of OpenAI agent monitor
+- `302-ai-data-leak` · 2026-10-22 · [[2026-10-22]] · 302.ai 22.72 TB leak
+- `canadian-publishers-sue-anthropic` · 2026-10-22 · [[2026-10-22]] · Canadian publishers sue Anthropic
+- `openai-navier-stokes-credit-dispute` · 2026-10-22 · [[2026-10-22]] · Navier-Stokes credit dispute
+- `openai-30b-raise-1-4t-valuation-update` · 2026-10-22 · [[2026-10-22]] · OpenAI round at $1.25T pre-money
+- `artex-ai-pentest-tool-withdrawn-update-2` · 2026-10-22 · [[2026-10-22]] · Storm-0940 used ARTEX
+- `wiz-php2shell-php-rce-update` · 2026-10-22 · [[2026-10-22]] · PHP2Shell exploited before patch
