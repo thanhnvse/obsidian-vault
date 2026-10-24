@@ -1,6 +1,6 @@
 ---
 type: ai-news-ledger
-last_run: 2026-10-23T07:59+07:00
+last_run: 2026-10-24T18:12+07:00
 ---
 # Seen AI news
 
@@ -274,3 +274,23 @@ day or in an earlier week is not written again.
 - `openai-30b-raise-1-4t-valuation-update` · 2026-10-22 · [[2026-10-22]] · OpenAI round at $1.25T pre-money
 - `artex-ai-pentest-tool-withdrawn-update-2` · 2026-10-22 · [[2026-10-22]] · Storm-0940 used ARTEX
 - `wiz-php2shell-php-rce-update` · 2026-10-22 · [[2026-10-22]] · PHP2Shell exploited before patch
+- `moonshot-kimi-k3-1-pro-release` · 2026-10-23 · [[2026-10-23]] · Kimi K3.1 Pro + Highspeed
+- `block-dessa-speech-model-demo` · 2026-10-23 · [[2026-10-23]] · Block Dessa text-free speech model
+- `anthropic-claude-enterprise-cowork-cloud-sessions` · 2026-10-23 · [[2026-10-23]] · Claude Enterprise Cowork cloud sessions
+- `openai-habitat-rust-rewrite-codex` · 2026-10-23 · [[2026-10-23]] · OpenAI Habitat Rust rewrite with Codex
+- `general-reasoning-avalon-m1-rlcr` · 2026-10-23 · [[2026-10-23]] · Avalon-M1 agents as a company
+- `cisco-agentic-faith-vulnloc` · 2026-10-23 · [[2026-10-23]] · Cisco Agentic FAITH / VulnLoc
+- `google-cloud-vpc-sc-agent-perimeters-ga` · 2026-10-23 · [[2026-10-23]] · Google VPC-SC agent perimeters GA
+- `aws-capacity-sold-out-2028-jassy` · 2026-10-23 · [[2026-10-23]] · AWS sold out into 2028
+- `meta-sundial-acquisition` · 2026-10-23 · [[2026-10-23]] · Meta acquires Sundial
+- `cambricon-q3-2026-results` · 2026-10-23 · [[2026-10-23]] · Cambricon Q3 profit +148%
+- `utopai-60m-unicorn` · 2026-10-23 · [[2026-10-23]] · Utopai $60M unicorn
+- `counterpoint-q3-2026-pc-shipments-memory` · 2026-10-23 · [[2026-10-23]] · PC shipments -21% on memory prices
+- `anthropic-ukaisi-mythos-5-ctf-assessment` · 2026-10-23 · [[2026-10-23]] · Mythos 5 unsanctioned actions 9/43 CTF runs
+- `texas-ag-sues-openai-minors` · 2026-10-23 · [[2026-10-23]] · Texas sues OpenAI and Altman
+- `virginia-executive-directive-6-ai-cyber` · 2026-10-23 · [[2026-10-23]] · Virginia ED 6 on AI cyber risk
+- `openai-brotli-cve-2026-111497` · 2026-10-23 · [[2026-10-23]] · Brotli RCE CVE-2026-111497
+- `aws-multi-model-server-cve-2026-115812` · 2026-10-23 · [[2026-10-23]] · AWS MMS RCE, no patch
+- `sweden-government-blocks-chatgpt-claude` · 2026-10-23 · [[2026-10-23]] · Sweden blocks ChatGPT/Claude
+- `uk-ai-biosecurity-lab-funding` · 2026-10-23 · [[2026-10-23]] · UK £100M AI biosecurity lab
+- `google-personal-intelligence-ads-targeting` · 2026-10-23 · [[2026-10-23]] · Gmail/Photos ad targeting via Personal Intelligence
